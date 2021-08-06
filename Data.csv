@@ -1,0 +1,702 @@
+Timestamp,Name (নাম),Age(বয়স),Gender(লিঙ্গ),Which class are you in?(তুমি কোন শ্রেণীতে পড়?),District(জেলা),What is your personal interest?(তুমি কি করতে পছন্দ করো?),Can you acquire it now?(তোমার পছন্দের কাজটি তুমি কি এখন করতে পারতেছ?),In spite of health risk do you want to go out to acquire it?(করোনা থাকা সত্ত্বেও তুমি কি বাইরে গিয়ে তোমার পছন্দের কাজটি করতে চাও?),Do you think Covid-19 Pandemic hampers yours study?(তুমি কি মনে করো কোভিড-19 মহামারী তোমার পড়াশোনার ক্ষতি করছে?),Can you concentrate in your study like before?(তুমি কি তোমার পড়াশোনায় আগের মত মনোযোগ দিতে পারতেছ?),Do you know about online classes in Sangsad Tv?(সংসদ টিভিতে প্রচার হওয়া অনলাইন ক্লাস এর ব্যাপারে তুমি জানো কি?),Are you participate online classes through Sangsad Tv arranged by govt?(সংসদ টিভিতে প্রচার হওয়া অনলাইন ক্লাসে তুমি অংশগ্রহণ করো?),Can you have your favorite foods now?(তোমার প্রিয় খাবারগুলো তুমি কি এখন পাচ্ছ?),Do you feel anger to anyone for not having the permission to do your favorite things?(তোমার প্রিয় কাজগুলো করতে না দেওয়ায় তোমার কি কারো উপর মন খারাপ?),Do you get more upbraid from your parents about mischief in the house than before?(বাসায় দুষ্টুমি করার জন্য তোমার বাবা-মা কি তোমাকে আগের চেয়ে বেশি বকাবকি করে?),Do you think because of this pandemic you spend more quality times with your family than before?(তুমি কি মনে করো এই মহামারীর প্রাদুর্ভাব এর ফলে তোমার পরিবার তোমাকে আগের চেয়ে বেশি সময় দিচ্ছে?),relative_house,Do you miss the hangouts with your school friends?(তুমি কি তোমার স্কুলের বন্ধুদের সাথে সময় কাটানো কে মিস করছো?),target
+2020/07/04 11:56:09 AM GMT+6,Meherajul Islam Shishir,16,Male,10,Chandpur,Playing outside ,No,No,Yes,No,Yes,No,No,Yes,Sometimes,Yes,No,Yes,Partial
+2020/07/04 12:10:00 PM GMT+6,Ishrat Jahan,15,Female,10,Rangpur,Drawing,Yes,No,Yes,Yes,Yes,Sometimes,Yes,Yes,No,No,No,Yes,Partial
+2020/07/04 12:12:26 PM GMT+6,Md. Nasiruddin,14,Male,8,Bogura,Fishing,Yes,Not necessary,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Partial
+2020/07/04 12:18:11 PM GMT+6,Md. Shihab Hossain,12,Male,7,Bogura,Traveling,No,No,Yes,No,Yes,Sometimes,Yes,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/04 12:18:19 PM GMT+6,Mahfuz Hossain,14,Male,7,Chandpur,Playing outside ,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes
+2020/07/04 12:20:30 PM GMT+6,Mehedi Hasan,17,Male,9,Chandpur,Playing outside ,Partial,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Partial
+2020/07/04 12:23:15 PM GMT+6,Mim Akter,6,Female,1,Bogura,Watching Tv,Yes,Not necessary,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Partial
+2020/07/04 12:29:03 PM GMT+6,Jannatul,5,Female,1,Bogura,Sleeping,Yes,Not necessary,Yes,No,No,No,Little bit,No,Yes,Yes,Yes,Yes,Partial
+2020/07/04 12:36:01 PM GMT+6,Md. Reyad Babu,12,Male,7,Bogura,Traveling,No,No,Yes,No,Yes,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/04 12:48:58 PM GMT+6,Abir Hossain,13,Male,8,Rangpur,Fishing,Yes,No,No,Yes,No,No,Yes,Yes,Sometimes,Yes,No,Yes,No
+2020/07/04 12:59:08 PM GMT+6,Md. Zahedul Islam,13,Male,5,Chandpur,Playing outside ,Partial,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Partial
+2020/07/04 1:02:51 PM GMT+6,Tasniya,13,Male,8,Bogura,লেখা পড়া,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Partial
+2020/07/04 5:19:57 PM GMT+6,Md. Zulkarnaim ,6,Male,1,Bogura,Eating food,Yes,Not necessary,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Partial
+2020/07/04 5:23:01 PM GMT+6,Md. Omar Faruk,13,Male,6,Bogura,Playing out,No,No,Yes,No,Yes,No,Little bit,No,Yes,Yes,No,Yes,Partial
+2020/07/04 5:24:56 PM GMT+6,Mst binty karim,14,Female,8,Gaibandha,Reading books,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Partial
+2020/07/04 7:38:51 PM GMT+6,Rezwan Kabir,10,Male,6,Rangpur,Gardening,Yes,Not necessary,May be,No,No,No,Little bit,No,Sometimes,Yes,No,No,No
+2020/07/04 8:07:47 PM GMT+6,Mashfia Nowshin Tua ,8,Female,3,Bogura,Drawing ,Yes,No,Yes,No,Yes,Yes,Little bit,No,No,Yes,Yes,Yes,Partial
+2020/07/04 8:26:45 PM GMT+6,Jarin Tasnim Turfa ,9,Female,3,Bogura,Drawing,Yes,No,Yes,No,Yes,Yes,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/07/04 8:32:51 PM GMT+6,Samiha Akter Sorna ,16,Female,10,Bogura,Watching movie,Yes,Not necessary,Yes,No,Yes,Sometimes,Yes,No,No,Yes,No,Yes,No
+2020/07/04 8:35:59 PM GMT+6,Amdadul Kabir,17,Male,10,Chattogram,Mobile Gaming,Yes,Not necessary,Yes,No,No,No,Yes,Yes,Sometimes,No,Yes,Yes,Partial
+2020/07/04 8:38:15 PM GMT+6,Jarin Islam,5,Female,1,Chattogram,Drawing,Yes,Not necessary,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No
+2020/07/04 8:40:18 PM GMT+6,Jayed Kabir,7,Male,3,Chattogram,Playing cricket,No,No,No,No,Yes,Sometimes,Yes,No,Sometimes,Yes,No,Yes,Partial
+2020/07/04 8:41:29 PM GMT+6,Afif Bin Ifthsker,9,Male,3,Bogura,Drawing,Yes,No,Yes,No,Yes,Yes,No,No,Sometimes,Yes,No,Yes,Partial
+2020/07/04 8:47:27 PM GMT+6,Araf Bin Ifthaker,6,Male,1,Bogura,Playing,Yes,No,Yes,No,Yes,Yes,No,No,Sometimes,Yes,No,Yes,Partial
+2020/07/04 9:54:53 PM GMT+6,Zaima Haque Dutika,11,Female,3,Bogura,tv dekte,No,No,May be,No,Yes,Sometimes,No,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/04 10:22:11 PM GMT+6,Zaima Haque Dutika,11,Female,3,Bogura,Watching TV,No,No,May be,No,Yes,Sometimes,No,No,No,Yes,No,Yes,Partial
+2020/07/04 10:24:45 PM GMT+6,Zaima Haque Dutika,11,Female,3,Bogura,Watching TV,No,No,May be,No,Yes,Sometimes,No,No,Sometimes,Yes,No,Yes,Partial
+2020/07/05 7:45:48 AM GMT+6,Takia Tasnim,9,Female,3,Bogura,Drawing,Yes,No,Yes,No,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/07/05 10:40:48 AM GMT+6,Israjul Alam,17,Male,10,Rangpur,Playing Cricket,No,No,Yes,No,Yes,Yes,Yes,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/07/05 12:25:00 PM GMT+6,Afia Akter Morium,6,Female,1,Bogura,Playing out,No,No,Yes,No,No,No,Little bit,Yes,Yes,No,Yes,Yes,Yes
+2020/07/05 12:35:12 PM GMT+6,Mizanur,12,Male,6,Bogura,Playing out,Partial,No,Yes,No,No,No,No,No,Sometimes,Yes,No,Yes,Partial
+2020/07/05 12:39:33 PM GMT+6,Md. Nahid,7,Male,1,Bogura,Playing out,No,No,No,Yes,No,No,No,Yes,Sometimes,No,Yes,No,Partial
+2020/07/05 12:42:47 PM GMT+6,Md. Siyam,8,Male,2,Bogura,Playing out,Partial,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Partial
+2020/07/05 12:51:46 PM GMT+6,Abdullah,12,Male,5,Bogura,Drawing,Yes,Not necessary,No,Yes,Yes,Sometimes,Little bit,No,Yes,Yes,No,Yes,No
+2020/07/05 1:52:56 PM GMT+6,ZUAIRIYA,7,Female,1,Bogura,TV Watch,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/05 1:53:21 PM GMT+6,ZUAIRIYA,7,Female,1,Bogura,TV Watch,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/05 1:58:38 PM GMT+6,  Mudabbir ,16,Male,10,Bogura, Reading  newspaper ,Partial,Not necessary,Yes,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/07/05 3:08:50 PM GMT+6,Mst: Sadia akter,13,Female,8,Bogura,Reading book,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Partial
+2020/07/05 3:11:40 PM GMT+6,Md: Abdur Rohman,6,Male,1,Bogura,Playing,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes
+2020/07/05 3:13:39 PM GMT+6,Mst: Jui khatun,7,Female,2,Bogura,Reading book,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+2020/07/05 3:15:28 PM GMT+6,Mst.Nila khatun,7,Female,1,Bogura,Reading book,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Partial
+2020/07/05 5:54:23 PM GMT+6,Md Rasel Miah,16,Male,9,Rangpur,Fishing,Yes,Not necessary,No,Yes,Yes,Sometimes,Yes,No,Sometimes,Yes,Yes,Yes,No
+2020/07/05 6:22:41 PM GMT+6,Rakib,14,Male,9,Bogura,Cricket,No,Not necessary,Yes,No,Yes,No,Little bit,Yes,Yes,No,Yes,Yes,Yes
+2020/07/05 6:25:49 PM GMT+6,Abir,12,Male,7,Bogura,Gameplay,Yes,No,Yes,No,Yes,No,Little bit,Yes,Yes,No,No,Yes,Partial
+2020/07/05 6:27:47 PM GMT+6,Fatems,8,Female,3,Bogura,Drawing,Yes,No,Yes,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/06 7:32:05 AM GMT+6,Sadikur rahman,14,Male,8,Bogura,Play cricket,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes
+2020/07/06 7:33:33 AM GMT+6,Md .Mazharul islam,10,Male,4,Bogura,Flying kite,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/06 7:34:56 AM GMT+6,Mst.Saziya akter,8,Female,2,Bogura,Cooking,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/06 9:36:27 AM GMT+6,Israt Jahan Shila,15,Female,10,Rangpur,Singing song,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,No,No,Partial
+2020/07/06 9:43:38 AM GMT+6,Najmun Nahar Tamanna,14,Female,10,Rangpur,Gardening,Yes,No,Yes,No,Yes,Sometimes,No,Yes,Sometimes,Yes,No,Yes,Partial
+2020/07/06 9:45:15 AM GMT+6,Orpita Khatun,15,Female,10,Rangpur,Dancing,Yes,Not necessary,May be,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Partial
+2020/07/06 9:47:16 AM GMT+6,Nusrat Jahan Nijhum,15,Female,10,Rangpur,Reading books,Yes,Not necessary,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No
+2020/07/06 9:49:26 AM GMT+6,Irin Khatun,14,Female,9,Rangpur,Watching Tv,Yes,Not necessary,No,No,Yes,Yes,No,No,No,No,No,No,No
+2020/07/06 9:50:57 AM GMT+6,Ayesha Siddika,16,Female,10,Rangpur,Cooking food,Yes,Not necessary,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No
+2020/07/06 9:52:25 AM GMT+6,Sharmin Tanjum Jemi,14,Female,10,Rangpur,Dancing,Yes,Not necessary,No,No,Yes,Sometimes,Yes,No,No,Yes,Yes,Yes,No
+2020/07/06 9:54:43 AM GMT+6,Marufa Akhter,14,Female,9,Rangpur,Watching Tv,Yes,No,May be,No,Yes,No,Little bit,No,No,No,Yes,No,Partial
+2020/07/06 9:56:40 AM GMT+6,Antara Khatun,14,Female,9,Rangpur,Drawing,Yes,Not necessary,Yes,No,Yes,Yes,Yes,No,Sometimes,Yes,No,No,No
+2020/07/06 9:58:55 AM GMT+6,Mejbahun Nahar Sharoni,16,Female,10,Rangpur,Hand Crafting,Yes,No,May be,No,Yes,No,Little bit,Yes,No,No,Yes,Yes,Partial
+2020/07/06 10:00:27 AM GMT+6,Huri Jannat,15,Female,10,Rangpur,Watching tv,Yes,Not necessary,May be,No,Yes,No,Little bit,No,No,No,Yes,No,Partial
+2020/07/06 10:02:55 AM GMT+6,Ravina Jannat,14,Female,9,Rangpur,Make up,Yes,No,No,No,Yes,No,No,Yes,Sometimes,No,Yes,Yes,Partial
+2020/07/06 10:04:27 AM GMT+6,Muna Akhter,14,Female,10,Rangpur,Drawing,Partial,Yes,Yes,No,Yes,Yes,Little bit,No,No,Yes,No,Yes,Partial
+2020/07/06 10:06:39 AM GMT+6,Sadia Akhter Shopna,14,Female,9,Rangpur,Singing song,Yes,Not necessary,May be,No,Yes,No,Little bit,No,No,Yes,Yes,Yes,Partial
+2020/07/06 10:08:51 AM GMT+6,Morsheda Akhter,16,Female,10,Rangpur,Bicycling,No,Yes,Yes,No,Yes,No,Little bit,No,No,No,No,Yes,Partial
+2020/07/06 10:10:17 AM GMT+6,Najmun Nahar,15,Female,10,Rangpur,Dancing,Yes,No,No,No,Yes,No,No,Yes,Sometimes,No,Yes,Yes,Partial
+2020/07/06 10:12:18 AM GMT+6,Tamanna Yesmin,14,Female,9,Rangpur,Eating,Partial,Yes,No,No,Yes,No,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/07/06 10:13:48 AM GMT+6,Ritu Moni,15,Female,10,Rangpur,Eating,Yes,No,May be,No,Yes,Sometimes,Little bit,Yes,Sometimes,No,Yes,No,Partial
+2020/07/06 10:15:36 AM GMT+6,Tisha Moni,13,Female,8,Rangpur,Reading books,Yes,Not necessary,Yes,No,Yes,No,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/06 10:17:20 AM GMT+6,Sharmin Khatun,16,Female,10,Rangpur,Reading books,No,Not necessary,May be,No,Yes,Yes,No,No,No,Yes,Yes,No,Partial
+2020/07/06 10:18:43 AM GMT+6,Asha Moni,15,Female,10,Rangpur,Travelling,No,Yes,Yes,No,Yes,Sometimes,Little bit,Yes,No,Yes,Yes,Yes,Yes
+2020/07/06 7:59:06 PM GMT+6,Najim uddin,15,Male,9,Bogura,Playing games ,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Partial
+2020/07/06 8:02:08 PM GMT+6,Mehedi Hasan,16,Male,10,Bogura,Playing games ,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/06 8:25:34 PM GMT+6,Srishty Maliha,14,Female,8,Lalmonirhat,Watching TV,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,No,Yes,Partial
+2020/07/07 7:30:12 AM GMT+6,anisha zaman ,5,Female,1,Bogura,yes,Yes,Not necessary,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Partial
+2020/07/07 6:19:55 PM GMT+6,Taslima Akter,13,Female,6,Chandpur,Playing with friends ,Partial,Yes,Yes,No,Yes,No,No,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/07/07 6:22:21 PM GMT+6,Samiya akter,10,Female,4,Chandpur,Playing ,No,Yes,May be,No,No,No,Little bit,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/07/08 9:00:01 AM GMT+6,Sinatul ,5,Female,1,Bogura,Playing out,No,Not necessary,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/08 9:04:04 AM GMT+6,Mohima akter,10,Female,4,Bogura,Studying ,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/08 9:05:07 AM GMT+6,Md.Atikur Islam,12,Male,7,Bogura,"Reading book, sports",Yes,Yes,Yes,No,No,No,Little bit,Yes,No,Yes,Yes,Yes,Partial
+2020/07/08 9:07:15 AM GMT+6,Rabeya khatun,5,Female,1,Bogura,Playing out,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Partial
+2020/07/08 9:10:33 AM GMT+6,Md.Sadikul Islam,7,Male,2,Bogura,Sports,No,Yes,No,No,No,No,No,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/08 9:14:50 AM GMT+6,Aiyub ali ,11,Male,5,Bogura,Summing ,No,No,Yes,Yes,Yes,Sometimes,No,Yes,No,Yes,Yes,Yes,Partial
+2020/07/08 9:16:42 AM GMT+6,Mst.Fatema Akter,10,Female,3,Bogura,Cooking.,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Partial
+2020/07/08 9:21:46 AM GMT+6,Niaz ahmed,8,Male,2,Bogura,Playing out,Yes,No,Yes,No,No,No,Yes,No,Sometimes,No,No,No,Partial
+2020/07/08 9:21:54 AM GMT+6,Abdul Rahim,8,Female,3,Bogura,Studying,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/08 9:21:57 AM GMT+6,Md.Mamunur Rasid,11,Male,3,Bogura,Study,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/08 9:24:37 AM GMT+6,Sadik Hasan Ruhin,8,Male,2,Bogura,Studying,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/08 9:25:18 AM GMT+6,Abdullah al rabbi,10,Male,3,Bogura,Cycling,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+2020/07/08 9:26:13 AM GMT+6,Biplob Ahmed,8,Male,2,Bogura,Sports,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/08 9:28:45 AM GMT+6,Raihan ali,7,Male,2,Bogura,Playing out,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/08 9:30:22 AM GMT+6,Jui Akter juthi,13,Female,7,Bogura,Reading books,Partial,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/08 9:31:00 AM GMT+6,Sumaiya Akter,7,Female,1,Bogura,Study,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/08 9:34:17 AM GMT+6,Sharifa khatun,12,Female,7,Bogura,Study,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/08 9:37:52 AM GMT+6,Jannati akter,14,Female,10,Bogura,Summing,Yes,No,Yes,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/08 9:38:46 AM GMT+6,Sumaiya Akter,9,Female,2,Bogura,Sports,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/08 9:40:55 AM GMT+6,Atikul Islam,6,Male,1,Bogura,Playing out,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Partial
+2020/07/08 9:42:23 AM GMT+6,Nice Akter,12,Female,6,Bogura,Exploring,Yes,No,Yes,No,Yes,No,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/08 9:51:47 AM GMT+6,Md Siam,5,Male,1,Bogura,Playing out,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Partial
+2020/07/08 9:55:09 AM GMT+6,Nisat Ahmed,15,Male,9,Bogura,Summing,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/08 9:55:46 AM GMT+6,Neha,6,Female,1,Bogura,Watching tv.,Yes,No,Yes,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/08 9:58:11 AM GMT+6,Morium,14,Female,9,Bogura,Playing out,No,Yes,Yes,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/08 10:01:24 AM GMT+6,Imran,16,Male,10,Bogura,Traveling,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes
+2020/07/08 7:02:48 PM GMT+6,Siyam,12,Male,5,Bogura,Playing outside,Partial,No,Yes,No,Yes,Sometimes,Little bit,Yes,Sometimes,No,Yes,Yes,Yes
+2020/07/08 7:20:26 PM GMT+6,Mikon Miah,15,Male,8,Rangpur,Fishing,Yes,Yes,May be,Yes,No,No,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/09 8:27:48 AM GMT+6,Mamun,14,Male,8,Bogura,Playing out,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Partial
+2020/07/09 8:27:52 AM GMT+6,Mamun,14,Male,8,Bogura,Playing out,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Partial
+2020/07/09 8:34:07 AM GMT+6,Miju,13,Male,8,Bogura,Playing football,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Partial
+2020/07/09 8:35:00 AM GMT+6,Jihad,12,Male,8,Bogura,Sports,No,No,No,No,No,No,No,No,No,Yes,No,No,Partial
+2020/07/09 8:35:04 AM GMT+6,Borhan,8,Male,4,Bogura,Playing outside  ,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Partial
+2020/07/09 8:42:26 AM GMT+6,Wajib Ahmed,12,Male,6,Bogura,Sports,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Partial
+2020/07/09 8:42:34 AM GMT+6,Salime,13,Male,7,Bogura,Playing outside  ,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/09 8:43:05 AM GMT+6,Md jony alam,15,Male,8,Gaibandha,Playing out,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Partial
+2020/07/09 8:45:41 AM GMT+6,Md radhed islam,13,Male,7,Bogura,Studying,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Partial
+2020/07/09 8:51:12 AM GMT+6,Nur e Tabassum,6,Female,1,Bogura,Watching TV,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Partial
+2020/07/09 8:51:19 AM GMT+6,Md.suzon,12,Male,6,Bogura,Playing outside  ,Partial,No,Yes,No,No,No,No,Yes,Sometimes,No,No,Yes,Yes
+2020/07/09 8:55:56 AM GMT+6,Mim akter,6,Female,1,Bogura,Watching TV,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/09 8:55:59 AM GMT+6,Shikha,11,Female,4,Bogura,Watching tv ,Partial,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,Partial
+2020/07/09 8:58:54 AM GMT+6,Jui akter,12,Female,6,Bogura,Cooking,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Partial
+2020/07/09 9:01:26 AM GMT+6,Sathi,12,Female,4,Bogura,Playing out ,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/09 9:08:43 AM GMT+6,Rayhan Islam,14,Male,9,Bogura,Sports,Yes,Yes,Yes,Yes,Yes,No,Little bit,Yes,No,Yes,No,Yes,Partial
+2020/07/09 9:12:04 AM GMT+6,Habiba Akter,12,Female,6,Bogura,Cooking,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/09 9:13:34 AM GMT+6,Hira moni,7,Female,2,Bogura,Cocking ,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/09 9:15:06 AM GMT+6,Habiba Akter,12,Female,6,Bogura,Cooking,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/09 9:20:54 AM GMT+6,Selim islim,14,Male,10,Bogura,Sports,No,No,May be,No,No,No,No,No,No,No,No,Yes,Partial
+2020/07/09 9:21:58 AM GMT+6,Sadia akter,5,Female,1,Bogura,Playingout ,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/09 9:22:23 AM GMT+6,Talha Jubayer,15,Male,10,Bogura,Photography,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/09 9:25:35 AM GMT+6,Sumaiya akter,5,Female,1,Bogura,Watching tv ,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/09 9:32:23 AM GMT+6,Samiul islam,6,Male,1,Bogura,Watching TV,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Partial
+2020/07/09 9:33:10 AM GMT+6,Mamuni Akter Mim,11,Female,6,Bogura,Studying,Partial,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/09 9:33:40 AM GMT+6,Siam babu,10,Male,4,Bogura,Watching tv ,Yes,Not necessary,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Partial
+2020/07/09 9:51:24 AM GMT+6,Nusrat Jahan Jitu ,12,Female,6,Bogura,Cocking ,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Partial
+2020/07/09 9:52:07 AM GMT+6,Sumaiya akter,5,Female,1,Bogura,Watching tv ,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/09 10:03:24 AM GMT+6,Ayesha siddika,14,Female,8,Bogura,Cocking ,Partial,Not necessary,Yes,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/09 10:04:20 AM GMT+6,Abdul kaium,12,Male,7,Bogura,Sports,Partial,No,Yes,No,Yes,No,Little bit,Yes,No,Yes,No,Yes,Partial
+2020/07/09 10:10:29 AM GMT+6,Maliha,6,Female,1,Bogura,Mobile games  ,Partial,Not necessary,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Partial
+2020/07/09 10:16:33 AM GMT+6,Mukta,11,Female,4,Bogura,Watching TV,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/09 10:18:45 AM GMT+6,Tanisha akter Risha,6,Female,1,Bogura,Watching TV,Yes,No,Yes,No,Yes,Sometimes,Little bit,Yes,No,Yes,Yes,Yes,Partial
+2020/07/09 10:19:10 AM GMT+6,Abid,7,Male,1,Bogura,Plying out ,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Partial
+2020/07/09 10:28:54 AM GMT+6,Abidur Rahman ,8,Male,1,Bogura,Playing cricket  ,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes
+2020/07/09 10:28:54 AM GMT+6,Abidur Rahman ,8,Male,1,Bogura,Playing cricket  ,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes
+2020/07/09 10:29:04 AM GMT+6,Shamima akter ,12,Female,7,Bogura,Tever,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No
+2020/07/09 10:40:39 AM GMT+6,Nisat hosen,14,Male,9,Bogura,Riding bike ,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Partial
+2020/07/09 10:43:57 AM GMT+6,Md Sakib Hasan,15,Male,9,Bogura,Playing cricket,No,No,Yes,No,Yes,No,No,No,Sometimes,Yes,No,Yes,Partial
+2020/07/09 10:49:35 AM GMT+6,Shamima,13,Female,7,Bogura,Playing out side,No,No,Yes,No,Yes,No,Little bit,No,No,Yes,No,Yes,Partial
+2020/07/09 10:50:29 AM GMT+6,Shezan,13,Male,4,Bogura,Playing outside,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes
+2020/07/09 10:52:38 AM GMT+6,Nurani,14,Female,8,Bogura,Watching tv ,No,Yes,Yes,No,Yes,Sometimes,No,No,No,Yes,No,Yes,Partial
+2020/07/09 10:55:32 AM GMT+6,Moriom,14,Female,9,Bogura,Watching tv ,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Partial
+2020/07/09 11:00:01 AM GMT+6,Mehedi hasan,14,Male,10,Bogura,Playing outside  ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/09 11:17:24 AM GMT+6,RAYHAN,14,Male,9,Bogura,Playing outside,No,Yes,Yes,No,Yes,No,No,No,Sometimes,Yes,Yes,Yes,Yes
+2020/07/09 3:00:11 PM GMT+6,Md Mithun,11,Male,6,Rangpur,Bicycling,Partial,No,Yes,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Partial
+2020/07/09 3:01:22 PM GMT+6,Moni Khatun,13,Female,8,Rangpur,Hand craft,Yes,Not necessary,No,Yes,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,No,No,No
+2020/07/09 4:22:00 PM GMT+6,Afifa khatun,6,Female,1,Bogura,Reading book,No,Yes,Yes,No,Yes,No,Little bit,No,Sometimes,Yes,Yes,Yes,Yes
+2020/07/09 6:03:32 PM GMT+6,Shuvo Islam,10,Male,4,Chandpur,Playing ,No,Yes,May be,No,No,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/09 6:05:03 PM GMT+6,Sumona Islam,13,Female,6,Chandpur,Playing with neighbours ,No,Yes,Yes,No,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/07/09 6:06:58 PM GMT+6,Zahed Islam,6,Male,1,Chandpur,Playing outside ,No,Yes,May be,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes
+2020/07/09 6:08:24 PM GMT+6,Farjana Akhter,16,Female,9,Chandpur,Playing and gossiping ,Partial,No,Yes,No,Yes,No,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/07/09 6:13:02 PM GMT+6,Nusrat Jahan,16,Female,9,Chandpur,Gossiping with friends ,Partial,No,No,Yes,Yes,Sometimes,Little bit,No,No,Yes,No,Yes,No
+2020/07/09 6:20:42 PM GMT+6,Sanjida Sultana Alvi,9,Female,3,Chandpur,Playing ,No,Yes,May be,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes
+2020/07/09 6:22:36 PM GMT+6,Fahim Islam,10,Male,3,Chandpur,Playing outside ,Partial,Yes,No,No,Yes,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/10 11:58:09 AM GMT+6,Md solaiman,6,Male,1,Bogura,Watching TV,Yes,Not necessary,Yes,No,No,No,No,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/10 12:01:10 PM GMT+6,Md robiul,6,Male,1,Bogura,Watching tv,Yes,Not necessary,Yes,No,No,No,No,Yes,Sometimes,No,Yes,Yes,Yes
+2020/07/10 12:04:46 PM GMT+6,Md jannati,10,Female,5,Bogura,Visit,No,Yes,Yes,No,No,No,No,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/07/10 12:10:38 PM GMT+6,Jannati khatun,10,Female,5,Bogura,Visit,No,Yes,Yes,No,No,No,Little bit,No,Sometimes,No,Yes,Yes,Yes
+2020/07/10 12:13:27 PM GMT+6,Rima khatun,10,Female,4,Bogura,Visit,No,Yes,Yes,No,No,No,No,No,Sometimes,Yes,No,Yes,Partial
+2020/07/10 12:16:05 PM GMT+6,Md siam,11,Male,5,Bogura,Play football,No,Yes,Yes,No,No,No,No,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/07/10 12:18:35 PM GMT+6,Sila khatun,10,Female,5,Bogura,Visit,No,Not necessary,Yes,No,No,No,Little bit,No,Sometimes,No,Yes,Yes,Yes
+2020/07/10 12:21:07 PM GMT+6,Md hasan,8,Male,2,Bogura,Play,No,No,May be,No,No,No,Little bit,No,Sometimes,No,Yes,Yes,Partial
+2020/07/10 5:31:15 PM GMT+6,Shanto Rahman,14,Male,8,Chandpur,Visiting ,No,Yes,Yes,No,Yes,No,Little bit,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/07/10 5:33:21 PM GMT+6,Mostafijur Rahman,10,Male,3,Chandpur,Playing ,No,Yes,May be,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/10 5:35:18 PM GMT+6,Shafayet Islam,11,Male,4,Chandpur,Playing,No,Yes,May be,No,Yes,No,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/10 5:37:48 PM GMT+6,Faria Jannat ,10,Female,4,Chandpur,Playing ,Partial,Yes,May be,No,No,No,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/10 5:40:20 PM GMT+6,Sharmin Akhter,17,Female,10,Chandpur,Gossiping with friends ,Partial,No,Yes,No,Yes,No,Little bit,No,No,Yes,No,Yes,Partial
+2020/07/10 5:42:06 PM GMT+6,Jannatul Ferdous,9,Female,3,Chandpur,Playing ,No,Yes,No,Yes,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/07/10 5:44:26 PM GMT+6,Sajedul Karim Shipon,13,Male,7,Chandpur,Playing outside ,Partial,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes
+2020/07/10 6:15:12 PM GMT+6,Toufiq,14,Male,9,Bogura,Play cricket,No,No,Yes,No,Yes,No,Little bit,Yes,Sometimes,No,No,Yes,Yes
+2020/07/10 6:22:32 PM GMT+6,Shakib,10,Male,5,Bogura,Cycling,No,Not necessary,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Partial
+2020/07/12 3:29:06 PM GMT+6,Milon Kabir,10,Male,6,Rangpur,Playing Cricket,No,No,Yes,No,Yes,Sometimes,Little bit,Yes,No,Yes,No,Yes,Partial
+2020/07/12 3:32:58 PM GMT+6,Maruf Huassain,7,Male,3,Rangpur,Drawing,Yes,Not necessary,May be,Yes,No,No,No,Yes,No,No,Yes,No,Partial
+2020/07/12 3:35:57 PM GMT+6,Nijhum,17,Female,10,Rangpur,Dancing,Yes,Not necessary,May be,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No
+2020/07/14 4:22:32 PM GMT+6,Navid Bin Nasir,10,Male,3,Bogura,Playing cricket,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Partial
+2020/07/15 5:24:11 PM GMT+6,Tahmid Alam Masum,6,Male,1,Brahmanbaria,Drawing ,Yes,Not necessary,May be,No,No,No,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/07/15 5:25:59 PM GMT+6,Tamjid Alam Nirnoy,5,Male,1,Brahmanbaria,watching tv,Yes,Not necessary,No,Yes,No,No,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/15 5:26:49 PM GMT+6,Shanto Islam,13,Male,6,Chandpur,Playing ,Yes,Not necessary,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Partial
+2020/07/15 5:30:10 PM GMT+6,Yasmin Akter,10,Female,3,Chandpur,Gossiping ,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/15 5:32:39 PM GMT+6,Farhana Akter,15,Female,9,Chandpur,Gossiping ,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Partial
+2020/07/15 5:33:15 PM GMT+6,Dewan Tazriyan raza,7,Male,3,Brahmanbaria,drawing,Yes,Not necessary,May be,No,No,No,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/15 5:36:12 PM GMT+6,Tasfia Tabassum Rimi,7,Female,1,Chandpur,Playing ,Yes,Not necessary,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Partial
+2020/07/15 5:38:15 PM GMT+6,Rohomot Ullah Robin,12,Male,6,Chandpur,Gaming ,Yes,Not necessary,Yes,No,No,No,Little bit,No,Yes,Yes,Yes,Yes,Partial
+2020/07/15 5:41:19 PM GMT+6,Sadia Akter sathi,15,Female,8,Chandpur,Playing ,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes
+2020/07/15 5:43:59 PM GMT+6,Khadija Akter,16,Female,8,Chandpur,Playing ,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/15 5:46:29 PM GMT+6,Samia Akter,10,Female,4,Chandpur,Playing ,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/15 5:48:50 PM GMT+6,Khadija Akter,15,Female,7,Chandpur,Playing ,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/15 5:50:45 PM GMT+6,Nadia Akter,10,Female,4,Chandpur,Playing ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/15 7:20:14 PM GMT+6,Shahriar Hossain,11,Male,5,Chandpur,Playing ,Partial,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/15 9:34:38 PM GMT+6,Fatima zohora,15,Female,8,Chapainawabganj,Drawing ,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Partial
+2020/07/15 9:36:28 PM GMT+6,Tamanna Tasnim,16,Female,9,Chapainawabganj,Singing ,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/15 9:38:31 PM GMT+6,Fahim Rahman,17,Male,9,Chapainawabganj,Gaming ,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Partial
+2020/07/15 9:40:30 PM GMT+6,Hamid Khan,14,Male,8,Chapainawabganj,Watching TV ,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/15 9:42:32 PM GMT+6,FahmidaTuly ,15,Female,8,Chapainawabganj,Drawing ,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/15 9:46:21 PM GMT+6,Mamun Islam,16,Male,9,Chapainawabganj,Playing cricket  ,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/07/15 9:50:39 PM GMT+6,Meem Akter ,15,Female,9,Chapainawabganj,Dancing ,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Sometimes,Yes,No,Yes,Partial
+2020/07/15 9:56:10 PM GMT+6,Jannat Ferdous ,17,Female,10,Chapainawabganj,Singing ,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Sometimes,Yes,No,Yes,Partial
+2020/07/15 9:58:36 PM GMT+6,Montasir Momin,17,Male,10,Chapainawabganj,Playing Football  ,No,No,Yes,No,Yes,Yes,No,Yes,Sometimes,Yes,No,Yes,Partial
+2020/07/15 10:00:20 PM GMT+6,Fateema Rahman ,16,Female,9,Chapainawabganj,Drawing ,Yes,No,Yes,No,Yes,Sometimes,No,Yes,No,Yes,No,Yes,Partial
+2020/07/16 8:08:49 PM GMT+6,Tareq khan,10,Male,5,Brahmanbaria,playing cricket,No,No,Yes,No,No,No,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/16 8:09:58 PM GMT+6,tasmim akter,10,Female,5,Brahmanbaria,drawing,Yes,Not necessary,Yes,No,No,No,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/17 1:33:04 PM GMT+6,Md Rakib Mia,8,Male,4,Rangpur,Gardening,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/17 1:34:14 PM GMT+6,Abu Raihan Kabir,11,Male,7,Rangpur,Playing Cricket,No,No,May be,Yes,No,No,Yes,Yes,No,No,No,Yes,Partial
+2020/07/17 1:35:51 PM GMT+6,Sneha Khatun,13,Female,9,Rangpur,Drawing,Yes,Not necessary,No,Yes,Yes,Yes,Yes,Yes,Sometimes,No,Yes,Yes,Partial
+2020/07/17 1:37:48 PM GMT+6,Alam Mia,15,Male,9,Rangpur,Playing outside,Partial,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Partial
+2020/07/17 1:39:00 PM GMT+6,Minu Khatun,10,Female,5,Rangpur,Drawing,Yes,Not necessary,No,Yes,No,No,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/17 1:40:46 PM GMT+6,Shourov Hossain,16,Male,10,Rangpur,Online Gaming,Yes,Not necessary,No,Yes,Yes,Sometimes,Yes,No,No,Yes,No,Yes,No
+2020/07/17 1:55:14 PM GMT+6,Shakil,12,Male,8,Rangpur,Fishing,Yes,Not necessary,May be,Yes,Yes,Sometimes,Yes,No,Sometimes,No,Yes,Yes,Partial
+2020/07/19 8:49:01 PM GMT+6,Md.Al Mutayali Asim,14,Male,9,Rangpur,i like to play cricket.,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Partial
+2020/07/19 8:52:57 PM GMT+6,Most.Tasnia Islam Toma,15,Female,10,Rangpur,i like to read books.,Yes,No,Yes,No,Yes,Sometimes,Yes,No,No,Yes,No,Yes,No
+2020/07/19 8:55:28 PM GMT+6,Most.Farhana Raisa,10,Female,5,Gaibandha,i like drawing ,Yes,No,Yes,No,Yes,Yes,Yes,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/19 8:58:23 PM GMT+6,Most.Jannatul Orni,11,Female,6,Rangpur,i like playing ,No,No,Yes,No,Yes,Sometimes,Yes,No,No,Yes,No,Yes,Partial
+2020/07/19 8:59:33 PM GMT+6,Most.Joyita,12,Female,6,Rangpur,i like reading ,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No
+2020/07/19 9:01:32 PM GMT+6,Most.Saiyara Samia Raisa,12,Female,7,Rangpur,i like playing,No,No,Yes,No,Yes,Sometimes,Yes,No,Sometimes,Yes,No,Yes,Partial
+2020/07/19 9:03:45 PM GMT+6,Most.Samia Tahsin Urbi,8,Female,1,Rangpur,i like reading and playing,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No
+2020/07/19 9:05:04 PM GMT+6,Md.Sajid Shahriar Utsho,11,Male,6,Rangpur,i like reading ,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No
+2020/07/19 9:07:55 PM GMT+6,Most.Esha Moni,11,Female,6,Rangpur,i like drawing ,Yes,No,No,No,Yes,Sometimes,Yes,No,No,Yes,No,Yes,No
+2020/07/19 9:09:48 PM GMT+6,Most.Nowshin Shormily Nila,10,Female,5,Rangpur,i like reading ,Yes,No,Yes,No,Yes,Sometimes,Yes,No,No,Yes,No,Yes,No
+2020/07/19 9:12:20 PM GMT+6,Most.Nowrin Shormily Nira,6,Female,1,Rangpur,i like reading ,Partial,No,Yes,No,Yes,Sometimes,Yes,No,Sometimes,Yes,No,Yes,Partial
+2020/07/19 11:44:41 PM GMT+6,Most.Bushra Al Batul,7,Female,2,Rangpur,i like playing ,Yes,No,Yes,No,Yes,Sometimes,Yes,Yes,No,Yes,No,Yes,Partial
+2020/07/19 11:45:57 PM GMT+6,Most.Mukita,8,Female,3,Rangpur,i like playing ,Yes,No,Yes,No,Yes,Yes,Yes,No,Sometimes,Yes,No,Yes,No
+2020/07/19 11:47:18 PM GMT+6,Most.Nushrat Jahan,16,Female,10,Rangpur,i like reading ,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No
+2020/07/19 11:49:00 PM GMT+6,Md.Rafid Muttakin,7,Male,2,Rangpur,i like reading ,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No
+2020/07/19 11:50:29 PM GMT+6,Most.Shifat E Nushrat,16,Female,10,Rangpur,i like reading,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No
+2020/07/20 3:32:51 PM GMT+6,Ashikur Rahman,13,Male,6,Chandpur,Playing ,No,Yes,Yes,No,No,No,Little bit,Yes,Sometimes,Yes,No,Yes,Yes
+2020/07/20 3:34:00 PM GMT+6,Sourav Shahriar,10,Male,4,Chandpur,Playing outside ,Partial,Yes,May be,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/20 3:35:06 PM GMT+6,Sumaiya Islam,14,Female,7,Chandpur,Gossiping,Partial,No,Yes,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/20 3:36:44 PM GMT+6,Shahriar Rabbi,16,Male,10,Chandpur,Playing football ,No,No,Yes,No,Yes,No,No,Yes,Sometimes,Yes,No,Yes,Partial
+2020/07/20 3:38:22 PM GMT+6,Nujaifa Rahman Mithi,9,Female,3,Chandpur,Playing ,No,Yes,May be,No,No,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/20 3:39:48 PM GMT+6,Sanjida Tabassum ,12,Female,6,Chandpur,Playing and gossiping ,Partial,No,Yes,No,Yes,No,Little bit,Yes,Sometimes,Yes,No,Yes,Partial
+2020/07/20 3:41:04 PM GMT+6,Md. Soikot Ahmed ,11,Male,5,Chandpur,Playing cricket ,No,Yes,Yes,No,Yes,No,No,Yes,Sometimes,Yes,No,Yes,Yes
+2020/07/20 3:42:30 PM GMT+6,Md. Fahad Hossain,8,Male,2,Chandpur,Playing outside ,No,Yes,May be,Yes,No,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/20 3:43:48 PM GMT+6,Md. Saiful Islam,13,Male,8,Chandpur,Playing Cricket ,No,No,Yes,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/07/20 3:45:08 PM GMT+6,Sweety Akter,10,Female,5,Chandpur,Gossiping ,Partial,No,No,Yes,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/20 3:46:06 PM GMT+6,Nazmun Nahar,8,Female,3,Chandpur,Playing ,No,Yes,No,Yes,Yes,No,No,Yes,Sometimes,No,Yes,Yes,Yes
+2020/07/20 3:47:17 PM GMT+6,Tamanna Akter,12,Female,6,Chandpur,Gossiping ,No,Yes,Yes,No,Yes,Sometimes,Little bit,Yes,Sometimes,No,Yes,Yes,Yes
+2020/07/20 3:48:35 PM GMT+6,Hridoy Ahmed,10,Male,4,Chandpur,Playing football ,No,Yes,May be,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/20 3:50:05 PM GMT+6,Md. Sajib Islam,11,Male,5,Chandpur,Playing outside ,Partial,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/20 3:51:46 PM GMT+6,Rafayet Hossain Rafsan,13,Male,7,Chandpur,Playing cricket ,No,No,May be,Yes,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/20 3:53:25 PM GMT+6,Tofayel Ahmed Limon,7,Male,1,Chandpur,Playing outside ,No,Yes,May be,No,No,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/21 12:00:05 PM GMT+6,Shakib Sarker,10,Male,6,Rangpur,Playing cricket,No,No,May be,No,Yes,Sometimes,Little bit,No,Sometimes,No,Yes,Yes,Partial
+2020/07/21 5:35:35 PM GMT+6,Mithun ,7,Male,3,Rangpur,Watching Tv,Yes,Not necessary,Yes,Yes,No,No,Little bit,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/07/21 5:37:16 PM GMT+6,Monila Khatun,13,Female,8,Rangpur,Cooking,Yes,Not necessary,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Partial
+2020/07/22 10:30:32 AM GMT+6,Sabina akter,14,Female,8,Chandpur,Playing ,Partial,No,Yes,No,Yes,No,Little bit,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/07/22 10:31:41 AM GMT+6,Limon ahmed ,9,Male,3,Chandpur,Visiting ,No,Yes,Yes,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/22 10:33:10 AM GMT+6,Rayhan Islam ,12,Male,5,Chandpur,Playing Cricket ,No,Yes,Yes,No,Yes,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/22 10:34:15 AM GMT+6,Sajibur Rahman,9,Male,3,Chandpur,Playing football ,No,Yes,May be,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/22 10:35:19 AM GMT+6,Mubasshir Rahman Pranto,13,Male,6,Chandpur,Playing cricket ,No,Yes,Yes,No,Yes,No,Little bit,Yes,Sometimes,Yes,No,Yes,Yes
+2020/07/22 10:36:32 AM GMT+6,Shafayet Islam Shishir,10,Male,4,Chandpur,Playing outside ,Partial,Yes,May be,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/22 10:37:45 AM GMT+6,Liza Rahman,11,Female,4,Chandpur,Visiting ,No,Yes,Yes,No,No,No,Little bit,No,Sometimes,Yes,Yes,Yes,Yes
+2020/07/22 10:59:28 AM GMT+6,Wahidur Rahman Joy,12,Male,6,Chandpur,Playing Cricket ,No,Yes,Yes,No,Yes,No,Little bit,Yes,Sometimes,Yes,No,Yes,Yes
+2020/07/22 11:00:32 AM GMT+6,Md. Shahadat ,9,Male,4,Chandpur,Playing outside ,Partial,Yes,May be,No,No,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/22 11:02:08 AM GMT+6,Maimun Islam Labin,7,Male,1,Chandpur,Playing ,No,Yes,May be,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes
+2020/07/22 11:04:10 AM GMT+6,Ariyan Mohin,16,Male,10,Chandpur,Playing football ,No,No,Yes,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/07/22 11:05:10 AM GMT+6,Nafija Akter,7,Female,1,Chandpur,Playing ,No,Yes,May be,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/22 11:06:24 AM GMT+6,Farjana Akter,13,Female,7,Chandpur,Visiting ,No,No,Yes,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/22 11:07:28 AM GMT+6,Md. Alamgir Hossain ,13,Male,7,Chandpur,Playing outside ,No,No,Yes,No,Yes,No,Little bit,No,Yes,Yes,No,Yes,Partial
+2020/07/22 11:09:17 AM GMT+6,Taslima Akter,9,Female,3,Chandpur,Visiting ,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes
+2020/07/26 9:22:56 AM GMT+6,Tasmia Akhter,12,Female,5,Chandpur,Playing ,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/26 9:23:59 AM GMT+6,Nusrat Jahan Mithi,9,Female,3,Chandpur,Playing outside ,No,Yes,Yes,No,Yes,No,No,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/07/29 12:16:39 PM GMT+6,Md. Rasel,11,Male,5,Chandpur,Playing cricket ,No,Yes,Yes,No,Yes,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/29 12:17:45 PM GMT+6,Sumaiya Rahman,10,Female,4,Chandpur,Visiting ,No,Yes,May be,No,No,No,No,Yes,Sometimes,No,Yes,Yes,Yes
+2020/07/29 12:18:48 PM GMT+6,Puja Paul ,14,Female,8,Chandpur,Gossiping ,Yes,Not necessary,Yes,No,Yes,No,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/07/29 12:20:02 PM GMT+6,Trishna Paul,16,Female,10,Chandpur,Visiting ,No,No,Yes,No,Yes,Sometimes,No,No,Sometimes,Yes,Yes,Yes,Partial
+2020/07/29 12:21:15 PM GMT+6,Sanjeeb Paul,12,Male,6,Chandpur,Playing outside ,No,Yes,May be,No,Yes,No,Little bit,Yes,Yes,No,Yes,Yes,Yes
+2020/07/29 12:22:34 PM GMT+6,Dipa Rani Paul,9,Female,3,Chandpur,Playing ,No,Yes,May be,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/29 12:24:42 PM GMT+6,Sujon Paul,11,Male,5,Chandpur,Playing Cricket ,No,No,Yes,No,Yes,No,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/07/29 9:54:04 PM GMT+6,Rabiul Islam Risun,13,Male,5,Pabna,Sport,No,Yes,Yes,No,Yes,Sometimes,Yes,No,No,No,Yes,No,Partial
+2020/07/29 9:59:36 PM GMT+6,Mst. Hosneara Parvin Nila,16,Female,10,Pabna,Study,Yes,Not necessary,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Partial
+2020/07/29 10:02:53 PM GMT+6,Saiful Islam,12,Male,5,Pabna,Adda,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2020/07/30 9:46:17 AM GMT+6,Mortuza Khatun,8,Female,4,Rangpur,Drawing,Yes,Not necessary,May be,No,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/07/30 8:51:05 PM GMT+6,Mst. Summa Khatun,15,Female,9,Pabna,Adda,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Partial
+2020/08/06 5:11:55 PM GMT+6,Ashraful Islam Apu ,12,Male,6,Pabna,Sports ,Yes,No,Yes,No,Yes,No,Yes,No,Sometimes,Yes,No,Yes,Partial
+2020/08/06 5:14:00 PM GMT+6,Muhin Ahmed,12,Male,6,Pabna,Fishing ,Yes,No,Yes,No,Yes,No,Yes,No,Sometimes,No,Yes,Yes,Partial
+2020/08/06 5:16:34 PM GMT+6,Tuhin Ahmed,6,Male,1,Pabna,Sports ,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Partial
+2020/08/08 4:13:33 PM GMT+6,Rik dey,6,Male,1,Chandpur,Swimming ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/08/11 4:50:16 PM GMT+6,Sabu miah,10,Male,6,Rangpur,Playing cricket,Partial,No,Yes,No,Yes,Sometimes,Little bit,No,Yes,Yes,Yes,Yes,Partial
+2020/08/22 8:08:01 AM GMT+6,Md Fahim Hossain,11,Male,7,Rangpur,Playing Cricket,No,No,May be,No,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,No,Yes,Partial
+2020/08/22 8:12:58 AM GMT+6,Shoumik,7,Male,3,Rangpur,Fishing,Yes,Not necessary,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Partial
+2020/08/22 8:15:33 AM GMT+6,Md Shajib Babu,15,Male,8,Rangpur,Playing Cricket,Partial,Yes,May be,No,Yes,Yes,Little bit,Yes,Sometimes,No,Yes,Yes,Yes
+2020/08/22 8:20:28 AM GMT+6,Mst Nurunnahar,16,Female,9,Rangpur,Drawing,Yes,Not necessary,Yes,No,Yes,Sometimes,Yes,No,Sometimes,Yes,Yes,Yes,Partial
+2020/08/22 8:30:48 AM GMT+6,Md Rain,6,Male,1,Rangpur,Watching Tv,Yes,Not necessary,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No
+2020/08/22 9:04:05 AM GMT+6,Salma Khatun,9,Female,5,Rangpur,Watching Tv,Yes,Not necessary,Yes,No,No,No,Yes,Yes,Sometimes,Yes,No,Yes,Partial
+2020/08/22 4:48:45 PM GMT+6,Salma Khatun,9,Female,5,Rangpur,Watching Tv,Yes,Not necessary,Yes,No,No,No,Yes,Yes,Sometimes,Yes,No,Yes,Partial
+2020/08/22 4:59:50 PM GMT+6,Jannatul Ferdaus Lona,17,Male,10,Rangpur,Cooking Food,Yes,Not necessary,May be,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+2020/08/22 5:15:28 PM GMT+6,Md Shishir,7,Male,2,Rangpur,Watching Tv,Yes,Not necessary,No,Yes,No,No,Little bit,Yes,Yes,Yes,No,Yes,Partial
+2020/08/22 5:19:02 PM GMT+6,Md Mahin,8,Male,4,Rangpur,Playing Football,Yes,Not necessary,May be,Yes,No,No,Little bit,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/08/22 5:22:41 PM GMT+6,Mst Neha Islam,11,Female,7,Rangpur,Hand Craft,Yes,Not necessary,No,Yes,Yes,Sometimes,Yes,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/08/22 5:26:41 PM GMT+6,Fuad,12,Male,8,Rangpur,Reading Books,Yes,Not necessary,Yes,No,Yes,Yes,Little bit,No,Sometimes,No,No,Yes,Partial
+2020/08/22 5:36:36 PM GMT+6,Mst Rifat,17,Female,10,Rangpur,Watching Tv,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Partial
+2020/08/22 5:44:55 PM GMT+6,Md Faruk,8,Male,4,Rangpur,Fishing,Yes,Yes,No,Yes,No,No,No,No,Sometimes,Yes,Yes,Yes,Partial
+2020/08/22 7:17:23 PM GMT+6,Md Nafis Hasan,5,Male,1,Rangpur,Watching Tv,Yes,Not necessary,May be,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Partial
+2020/08/22 7:22:51 PM GMT+6,Mst Akhi Moni,12,Female,7,Rangpur,Dancing,Yes,Yes,Yes,No,Yes,No,Little bit,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/08/22 7:26:33 PM GMT+6,Mst Sabiha,9,Female,5,Rangpur,Drawing,Yes,Not necessary,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Partial
+2020/08/22 7:29:11 PM GMT+6,Mst Tabassum Moni,12,Male,8,Rangpur,Reading books,Yes,No,No,Yes,Yes,Sometimes,Yes,Yes,No,Yes,Yes,No,No
+2020/08/22 7:31:49 PM GMT+6,Mst Mim ,8,Female,4,Rangpur,Watching tv,Yes,No,May be,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Partial
+2020/11/01 10:27:24 PM GMT+6,Atikul Islam,12,Male,6,Chandpur,Playing Cricket ,No,Yes,Yes,No,Yes,No,Little bit,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/11/01 10:28:48 PM GMT+6,Limon Ahmed,10,Male,4,Pabna,Playing ,No,Yes,May be,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/11/01 10:30:18 PM GMT+6,Tanvir Ahmed,10,Male,4,Bogura,Playing outside ,No,Yes,Yes,No,No,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/11/01 10:31:45 PM GMT+6,Sajjad Hossain,11,Male,5,Bogura,Playing football ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/11/01 10:33:29 PM GMT+6,Junayed Ahmed,9,Male,3,Chandpur,Playing ,No,Yes,May be,No,No,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 1:43:03 PM GMT+6,Lamia Islam,10,Female,4,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 1:44:06 PM GMT+6,Faria Ruksara,11,Female,4,Chandpur,Visiting ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 1:44:40 PM GMT+6,Akash,13,Male,7,Brahmanbaria,Playing cricket,No,Yes,Yes,No,Yes,Sometimes,No,Yes,Yes,No,No,No,Yes
+2020/12/05 1:45:08 PM GMT+6,Rakib Hasan,8,Male,2,Chandpur,Playing football ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 1:46:00 PM GMT+6,Abir khan,14,Male,8,Chandpur,Playing cricket ,No,No,Yes,No,Yes,No,No,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/12/05 1:46:13 PM GMT+6,Ahosan ,10,Male,5,Bogura,Playing cricket,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+2020/12/05 1:47:08 PM GMT+6,Nabibur Rahman,11,Female,5,Chandpur,Playing football ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 1:47:57 PM GMT+6,Ahnaf suwad,15,Male,10,Barishal,Playing cricket,No,No,May be,Yes,No,No,Little bit,No,Yes,Yes,Yes,Yes,Partial
+2020/12/05 1:48:27 PM GMT+6,Limon Hasan,14,Male,8,Chandpur,Playing outside ,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 1:49:44 PM GMT+6,Kamal hasan,7,Male,2,Bagerhat,Playing football,No,No,Yes,No,Yes,No,Little bit,No,Sometimes,No,Yes,No,Partial
+2020/12/05 1:50:03 PM GMT+6,Arafat Islam,10,Male,4,Chandpur,Travelling ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 1:51:08 PM GMT+6,Raju Hossain,16,Male,10,Chandpur,Playing football ,No,No,Yes,No,Yes,No,Little bit,Yes,Sometimes,Yes,No,Yes,Partial
+2020/12/05 1:51:20 PM GMT+6,Jamal Ahamed,14,Male,8,Chandpur,Traveling,No,No,Yes,Yes,Yes,No,Little bit,Yes,Yes,No,Yes,Yes,Yes
+2020/12/05 1:52:40 PM GMT+6,Tafsirul Islam,12,Male,6,Chandpur,Playing Cricket ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 1:53:14 PM GMT+6,Raju Ahamed,13,Male,7,Bhola,Traveling,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes
+2020/12/05 1:53:31 PM GMT+6,Md. Shakil,13,Male,7,Chandpur,Travelling ,No,Yes,Yes,No,Yes,Sometimes,No,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/12/05 1:54:24 PM GMT+6,Shihab,7,Male,2,Brahmanbaria,Playing cricket,No,Yes,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,No,Yes,No,Yes
+2020/12/05 1:54:45 PM GMT+6,Torikul Islam,12,Male,6,Chandpur,Playing games ,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/05 1:55:41 PM GMT+6,Limon,16,Male,10,Cumilla,Traveling,No,No,Yes,No,Yes,No,Yes,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/12/05 1:55:49 PM GMT+6,Abdur Rahim,9,Male,3,Chandpur,Playing outside ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 1:57:00 PM GMT+6,Yousuf Islam,11,Male,5,Chandpur,Playing football ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 1:57:02 PM GMT+6,Anwar Hossain,8,Male,3,Bandarban,Playing football,Partial,Not necessary,Yes,No,Yes,No,Little bit,Yes,Yes,No,Yes,Yes,Yes
+2020/12/05 1:58:13 PM GMT+6,Rakib hasan,9,Male,5,Bhola,Playing cricket,Partial,No,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,No,Yes,Yes,Yes
+2020/12/05 1:58:21 PM GMT+6,Sathi Islam,10,Female,4,Chandpur,Playing,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 1:59:48 PM GMT+6,Sanjana Karim,12,Female,6,Chandpur,Watching Tv,Yes,No,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/05 1:59:48 PM GMT+6,Tafsir Islam,11,Male,6,Brahmanbaria,Playing football,No,No,Yes,No,Yes,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 2:01:12 PM GMT+6,Tomal ,10,Male,5,Chandpur,Playing games,Partial,No,Yes,No,No,No,Little bit,Yes,Yes,Yes,No,Yes,Partial
+2020/12/05 2:01:32 PM GMT+6,Sonia Akhter,10,Female,4,Bogura,Playing outside ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 2:02:52 PM GMT+6,Lotu islam,12,Male,7,Bhola,Traveling,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+2020/12/05 2:04:28 PM GMT+6,Jolekha Akhter,9,Female,3,Bogura,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 2:05:30 PM GMT+6,Siyam Ahamed,14,Male,9,Chapainawabganj,Traveling,No,Yes,Yes,No,Yes,No,Little bit,Yes,Sometimes,Yes,No,Yes,Yes
+2020/12/05 2:05:34 PM GMT+6,Nehal Islam,11,Male,5,Chandpur,Playing Cricket ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 2:18:30 PM GMT+6,Ashikur Rahman,11,Male,6,Chandpur,Playing Cricket ,No,Yes,Yes,No,Yes,No,No,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/12/05 2:18:51 PM GMT+6,Tarek hasan,14,Male,9,Chandpur,Traveling,No,No,Yes,No,Yes,Yes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/05 2:19:16 PM GMT+6,Zahidur Rahman,12,Male,6,Chandpur,Playing outside ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 2:20:07 PM GMT+6,Atikul Islam,9,Male,3,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 2:20:40 PM GMT+6,Arefin,6,Male,1,Bagerhat,Watching cartoon,Yes,Not necessary,May be,No,No,No,Little bit,Yes,Yes,Yes,Yes,No,Partial
+2020/12/05 2:21:04 PM GMT+6,Fatema Akhter,10,Female,4,Chandpur,Watching Tv,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 2:21:42 PM GMT+6,Apurbo,10,Male,5,Bhola,Playing football,No,Not necessary,May be,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/05 2:21:52 PM GMT+6,Farhana Rahman,10,Female,4,Chandpur,Playing outside ,No,Yes,Yes,No,Yes,No,No,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/12/05 2:22:48 PM GMT+6,Al Imran,12,Male,6,Chandpur,Playing Cricket ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 2:23:00 PM GMT+6,Athoy,9,Female,4,Bogura,Watching cartoon,No,Not necessary,Yes,No,No,No,Little bit,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/12/05 2:24:13 PM GMT+6,Mahbubul Alam,16,Male,10,Bogura,Playing Cricket ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 2:24:22 PM GMT+6,Shihab uddin,16,Male,10,Chandpur,Traveling,No,Yes,May be,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/05 2:27:03 PM GMT+6,Sajjad Ali,16,Male,10,Bogura,Playing cricket,Yes,Not necessary,Yes,No,Yes,Sometimes,Yes,Yes,Yes,No,No,Yes,Partial
+2020/12/05 2:28:29 PM GMT+6,Dipto,7,Male,3,Chandpur,Watching tv,Yes,Not necessary,Yes,No,No,No,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/13 6:18:08 PM GMT+6,Barsha,6,Female,1,Bogura,Watching Tv,Yes,Not necessary,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Partial
+2020/12/13 6:20:09 PM GMT+6,Hridi,10,Female,5,Bogura,Traveling,No,Yes,Yes,No,No,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 6:43:00 PM GMT+6,laboni,17,Female,10,Bogura,Traveling,No,No,Yes,No,Yes,No,Little bit,No,Yes,Yes,Yes,Yes,Partial
+2020/12/13 6:51:57 PM GMT+6,Ahmed,9,Male,4,Bogura,Playing outside,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 7:02:10 PM GMT+6,Bhuiyan,15,Male,7,Bogura,Sleeping,Yes,Not necessary,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 7:04:07 PM GMT+6,Miah,10,Male,4,Bogura,Playing outside ,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes
+2020/12/13 7:09:46 PM GMT+6,Khondakar,7,Male,2,Bogura,Drawing,Yes,Not necessary,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Partial
+2020/12/13 10:00:21 PM GMT+6,Rahim,5,Male,1,Bogura,Eating,Partial,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 10:01:32 PM GMT+6,Rabeya,17,Female,10,Bogura,Traveling,No,No,Yes,No,Yes,Sometimes,Yes,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/13 10:46:28 PM GMT+6,Adiba Islam,7,Female,1,Chandpur,Playing ,No,Yes,May be,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 10:48:14 PM GMT+6,Barsha Islam,9,Female,3,Chandpur,Playing ,No,Yes,Yes,No,Yes,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 10:49:29 PM GMT+6,Rifah Tabassum,12,Female,6,Chandpur,Travelling ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 10:50:43 PM GMT+6,Sharmin Islam,10,Female,4,Chandpur,Watching tv,Partial,Not necessary,Yes,No,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/12/13 10:52:12 PM GMT+6,Mariam Akter,11,Female,5,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 10:53:08 PM GMT+6,Dina,10,Female,4,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 10:54:11 PM GMT+6,Hridhi Jaman,11,Female,5,Chandpur,Gossiping ,Partial,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 10:55:01 PM GMT+6,Eshita Alam,12,Female,6,Chandpur,Travelling ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 10:56:03 PM GMT+6,Muhaiminul Islam,13,Male,7,Chattogram,Playing Cricket ,No,Yes,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 10:56:53 PM GMT+6,Jannat Noor,12,Female,6,Chattogram,Visiting ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 10:58:03 PM GMT+6,Arpa Rahman,10,Female,4,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 10:59:04 PM GMT+6,Labiba Islam,11,Female,5,Chattogram,Watching tv,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/13 11:00:06 PM GMT+6,Abdullah Al Noman,11,Male,5,Chattogram,Playing football ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:00:59 PM GMT+6,Sadia Islam,13,Female,7,Chattogram,Travelling ,No,Yes,Yes,No,No,No,No,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/12/13 11:01:53 PM GMT+6,Riya,11,Female,5,Chattogram,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:03:02 PM GMT+6,Sumaiya Rahman,12,Female,6,Chandpur,Watching tv,Yes,Not necessary,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:03:58 PM GMT+6,Moniruzzamn ,10,Male,4,Chattogram,Playing outside ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:04:53 PM GMT+6,Nazifa Zaman,11,Female,5,Chattogram,Playing ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:05:46 PM GMT+6,Munira Islam,11,Female,5,Chandpur,Travelling ,No,Yes,Yes,No,No,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:07:14 PM GMT+6,Rafsan Hasan,11,Male,5,Bogura,Playing football ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:10:15 PM GMT+6,Fahmida Rahman,11,Female,5,Chattogram,Watching movie ,Partial,Not necessary,Yes,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:11:32 PM GMT+6,Moon,11,Female,5,Chattogram,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:12:39 PM GMT+6,Niyamat Ullah ,12,Male,6,Chandpur,Playing football ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes
+2020/12/13 11:13:32 PM GMT+6,Syeda Raunak,9,Female,3,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:14:22 PM GMT+6,Jerin Rahman,12,Female,6,Chattogram,Gossiping ,Partial,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:16:05 PM GMT+6,Emi Rahman,13,Female,7,Bogura,Watching movie ,Partial,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:17:10 PM GMT+6,Ayesha Islam,9,Female,3,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:18:00 PM GMT+6,Oporajita Rahman,7,Female,1,Chattogram,Playing ,No,Yes,May be,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:19:34 PM GMT+6,Salha Khanom,10,Female,4,Chandpur,Playing ,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:20:42 PM GMT+6,Eva Rahman,8,Female,2,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:21:36 PM GMT+6,Sourav Islam,10,Male,4,Chattogram,Playing outside ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:22:42 PM GMT+6,Tasnuva Islam,12,Female,6,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:24:46 PM GMT+6,Muntaha Ahmed,9,Female,3,Chattogram,Playing,No,Yes,Yes,No,Yes,No,Little bit,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/12/13 11:27:42 PM GMT+6,Tanvir Islam,11,Male,5,Bogura,Playing outside ,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes
+2020/12/13 11:28:25 PM GMT+6,Sams Nayeem,12,Male,6,Bogura,Playing Cricket ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes
+2020/12/13 11:29:22 PM GMT+6,Iqbal Hasan,12,Male,6,Bogura,Playing Cricket ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:30:10 PM GMT+6,Nazia Rahman,10,Female,4,Bogura,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:31:21 PM GMT+6,Sanjana Karim,10,Female,4,Bogura,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:32:06 PM GMT+6,Naomi Rahman,11,Female,5,Chandpur,Travelling ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/13 11:32:58 PM GMT+6,Farhan Islam,12,Male,6,Chandpur,Travelling ,No,Yes,Yes,No,Yes,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/14 11:03:14 AM GMT+6,Naim,5,Male,1,Bogura,Playing outside,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/14 11:10:42 AM GMT+6,Maria,6,Female,2,Bogura,Watching tv,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Partial
+2020/12/14 11:17:53 AM GMT+6,Nabila Islam,5,Male,1,Bogura,Reading story book,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Partial
+2020/12/14 11:22:19 AM GMT+6,Ataur Rahman,13,Male,8,Bogura,Play cricket,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes
+2020/12/14 11:23:47 AM GMT+6,Tauhid Rahman,14,Male,10,Bogura,Play football,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes
+2020/12/14 11:24:03 AM GMT+6,Manik,7,Male,3,Bogura,Playing football,No,Yes,May be,No,Yes,Yes,Little bit,No,Sometimes,Yes,No,No,Partial
+2020/12/14 11:24:43 AM GMT+6,Shadik shahoriar,6,Male,2,Bogura,Playing football,No,No,Yes,Yes,Yes,Yes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/14 11:24:57 AM GMT+6,Sadik Islam,12,Male,8,Bogura,Ludu,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes
+2020/12/14 11:26:15 AM GMT+6,Rashed Islam,14,Male,10,Bogura,Play cricket,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/14 11:27:28 AM GMT+6,Arafat Hossain,14,Male,10,Bogura,Play football,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/14 11:28:28 AM GMT+6,Shuvo Islam,14,Male,10,Bogura,Play football,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Partial
+2020/12/14 11:29:08 AM GMT+6,Samiya jannat,7,Male,3,Bogura,Playing games,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/12/14 11:29:18 AM GMT+6,Rosid ,14,Male,10,Bogura,Play football,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Partial
+2020/12/14 11:30:06 AM GMT+6,Hossain Ali,14,Male,10,Bogura,Play football,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Partial
+2020/12/14 11:31:01 AM GMT+6,Rahim Islam,14,Male,9,Bogura,Play football,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Partial
+2020/12/14 11:31:52 AM GMT+6,Aminul Islam,12,Male,8,Bogura,Play football,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Partial
+2020/12/14 11:32:05 AM GMT+6,Niha,8,Female,4,Bogura,Reading story books,No,No,Yes,No,Yes,Sometimes,No,No,Yes,Yes,Yes,Yes,Partial
+2020/12/14 11:33:14 AM GMT+6,Partha kumar,12,Male,7,Bogura,Play football,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/14 11:33:36 AM GMT+6,Shagor Islam,8,Male,4,Bogura,Playing cricket,No,No,Yes,No,Yes,Yes,Little bit,No,Yes,Yes,Yes,Yes,Partial
+2020/12/14 11:34:10 AM GMT+6,Tohin Islam,12,Male,6,Bogura,Play football,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Partial
+2020/12/14 11:34:57 AM GMT+6,Badhon Rahman,12,Male,8,Bogura,Play football,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Partial
+2020/12/14 11:35:52 AM GMT+6,Roton Ali,14,Male,10,Bogura,Play football,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Partial
+2020/12/14 11:39:15 AM GMT+6,Mita aktar,9,Female,5,Bogura,Reading story book,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Sometimes,Yes,No,Yes,Partial
+2020/12/14 11:41:01 AM GMT+6,Arman rahaman,10,Male,5,Bogura,Play games,Yes,No,Yes,No,No,No,No,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/14 11:42:12 AM GMT+6,Soyaib Islam,9,Male,6,Bogura,Playing cricket,No,No,Yes,No,Yes,Yes,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/12/14 11:43:40 AM GMT+6,Liza,11,Female,6,Bogura,Dancing,Partial,Not necessary,Yes,No,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,Partial
+2020/12/14 11:45:02 AM GMT+6,Joi rani,10,Female,7,Bogura,Reading English book,Yes,No,Yes,No,Yes,Yes,Yes,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/14 11:47:20 AM GMT+6,Rashedul Islam,13,Male,9,Bogura,Play football,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Partial
+2020/12/14 11:48:10 AM GMT+6,Fahim Islam,13,Male,9,Bogura,Play cricket,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/14 11:48:39 AM GMT+6,Saikot,12,Male,7,Bogura,Playing outside,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+2020/12/14 11:49:02 AM GMT+6,Zamin Islam,13,Male,9,Bogura,Play football,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Partial
+2020/12/14 11:49:46 AM GMT+6,Torikul Islam,14,Male,9,Bogura,Play football,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Partial
+2020/12/14 11:49:57 AM GMT+6,Niloy ,11,Male,8,Bogura,Catching fish,Yes,No,Yes,No,Yes,Yes,Little bit,No,Yes,Yes,No,Yes,Partial
+2020/12/14 11:52:27 AM GMT+6,Abraham nayem,13,Male,9,Bogura,Playing cricket,No,No,Yes,No,Yes,Yes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/14 11:52:34 AM GMT+6,Tania,13,Female,8,Bogura,Watching tv,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Partial
+2020/12/14 11:55:54 AM GMT+6,Ritu Aktar,15,Female,10,Bogura,Reading history book,Yes,No,Yes,No,Yes,Yes,Yes,No,Sometimes,Yes,No,Yes,No
+2020/12/14 11:56:59 AM GMT+6,Fahmida,8,Female,4,Kushtia,Watching tv,Yes,Not necessary,May be,No,Yes,Sometimes,Yes,Yes,Sometimes,Yes,No,Yes,Partial
+2020/12/14 11:58:20 AM GMT+6,Tanvir rahaman,15,Male,9,Bogura,Catching fish,Yes,Yes,Yes,No,Yes,Yes,Little bit,No,Sometimes,No,No,Yes,Partial
+2020/12/14 11:59:18 AM GMT+6,Shariful sharif,6,Male,1,Bogura,Playing games,Yes,No,Yes,Yes,Yes,Yes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/14 12:00:58 PM GMT+6,Mst:Anika,9,Female,3,Bogura,Writing,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/14 12:01:47 PM GMT+6,Moriom mitu,7,Female,2,Bogura,Reading book,Yes,No,Yes,Yes,Yes,Yes,No,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/14 12:02:35 PM GMT+6,Jemi kathun,17,Female,10,Bogura,Riding story books,Yes,No,Yes,No,Yes,Sometimes,No,No,No,No,Yes,Yes,Partial
+2020/12/14 12:06:05 PM GMT+6,Noila nayem,8,Female,3,Bogura,Drawing,Yes,No,Yes,No,Yes,Yes,Little bit,Yes,Sometimes,Yes,No,Yes,Partial
+2020/12/14 12:09:08 PM GMT+6,Summa,5,Female,1,Bogura,Drawing,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Partial
+2020/12/14 12:12:11 PM GMT+6,Niha,8,Female,4,Bogura,Drawing,Yes,Not necessary,Yes,Yes,Yes,Yes,No,No,Sometimes,Yes,No,Yes,No
+2020/12/14 12:13:36 PM GMT+6,Hohasin,6,Male,2,Bogura,Playing outside,No,Yes,Yes,No,Yes,Yes,Little bit,No,No,Yes,Yes,No,Partial
+2020/12/14 12:13:46 PM GMT+6,Rajib,10,Male,5,Bogura,Playing football,No,No,Yes,No,Yes,Yes,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/12/14 12:15:30 PM GMT+6,Somaiya ,11,Female,6,Bogura,Reading English book,Yes,Not necessary,Yes,Yes,Yes,Yes,Little bit,No,Sometimes,Yes,No,Yes,No
+2020/12/14 12:16:53 PM GMT+6,Hira ,8,Female,3,Bogura,Watching tv,Yes,No,Yes,No,Yes,Yes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/14 12:18:08 PM GMT+6,Touhid Rhoman,12,Male,7,Bogura,Playing basketball,No,No,Yes,No,Yes,Yes,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/12/14 12:19:49 PM GMT+6,Rahim,9,Male,4,Bogura,Playing outside,No,Yes,Yes,No,Yes,Sometimes,No,No,Sometimes,Yes,Yes,No,Partial
+2020/12/14 12:20:34 PM GMT+6,Jihad hosen,14,Male,8,Bogura,Playing cricket ,No,No,Yes,No,Yes,Yes,No,Yes,Sometimes,Yes,No,Yes,Partial
+2020/12/14 12:23:10 PM GMT+6,Mansura akter maya,11,Female,5,Bogura,Weasting time with parents,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/14 12:23:30 PM GMT+6,Rami Islam,15,Female,9,Bogura,Reading history book,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/12/14 12:25:42 PM GMT+6,Saimon ,16,Male,10,Bogura,Playing cricket,No,No,Yes,No,Yes,Yes,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/12/14 12:28:03 PM GMT+6,Mim Aktar,5,Female,1,Bogura,Playing games,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Partial
+2020/12/14 12:28:49 PM GMT+6,Shahariar shakil,13,Male,6,Bogura,Playing outside,No,Yes,Yes,No,Yes,Yes,Little bit,Yes,No,Yes,Yes,No,Partial
+2020/12/14 12:30:19 PM GMT+6,Moinul Islam,6,Male,2,Bogura,Playing football,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Partial
+2020/12/14 12:31:53 PM GMT+6,Monira Aktar,7,Male,3,Bogura,Drawing,Yes,No,Yes,No,Yes,Yes,Little bit,No,Yes,Yes,No,Yes,Partial
+2020/12/14 12:32:30 PM GMT+6,Sumi akter,14,Female,7,Bogura,Reading books ,No,Yes,May be,No,Yes,Sometimes,Yes,Yes,Yes,No,No,Yes,Yes
+2020/12/14 12:34:23 PM GMT+6,Sahnaj Aktar,8,Female,4,Bogura,Reading story book,Yes,No,Yes,Yes,Yes,Yes,Little bit,No,Sometimes,Yes,No,Yes,No
+2020/12/14 12:36:56 PM GMT+6,Sagor,15,Male,8,Bogura,Playing cricket,No,Yes,May be,No,Yes,Sometimes,No,Yes,Sometimes,No,No,Yes,Yes
+2020/12/14 12:37:28 PM GMT+6,Masum ,9,Male,5,Bogura,Playing basketball,No,No,Yes,No,Yes,Yes,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/12/14 12:38:57 PM GMT+6,Toushi ,11,Female,6,Bogura,Drawing,Yes,No,Yes,No,Yes,Yes,No,No,Sometimes,Yes,No,Yes,Partial
+2020/12/14 12:41:25 PM GMT+6,Sgoumik,13,Male,7,Bogura,Playing cricket,No,No,Yes,Yes,Yes,Sometimes,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/12/14 12:41:45 PM GMT+6,Sobuj,16,Male,9,Bogura,Playing badminton ,No,No,Yes,No,Yes,Sometimes,No,Yes,No,Yes,Yes,No,Partial
+2020/12/14 12:43:41 PM GMT+6,Dolon mustafi,15,Female,8,Bogura,Reading book,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/12/14 12:44:50 PM GMT+6,Prema,17,Female,10,Bogura,Drawing,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Partial
+2020/12/14 12:45:40 PM GMT+6,Tarek Rhoman,17,Male,9,Bogura,Playing football,No,No,Yes,No,Yes,Yes,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/12/14 12:47:16 PM GMT+6,Lamiya,17,Female,10,Bogura,Reading story book,Yes,No,Yes,No,Yes,Sometimes,No,No,Sometimes,Yes,No,Yes,Partial
+2020/12/14 7:15:39 PM GMT+6,Faruk,10,Male,6,Chattogram,Playing Cricket,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes
+2020/12/14 7:26:33 PM GMT+6,Kanij Fatima,15,Female,9,Bandarban,Cooking,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,Yes,No,Yes,Yes,Yes,Partial
+2020/12/14 7:28:58 PM GMT+6,Rabbi Hasan,9,Male,4,Bagerhat,Playing football,Partial,Yes,May be,No,No,No,Little bit,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/12/14 7:35:58 PM GMT+6,Jubayer,13,Male,8,Shariatpur,Drawing,Yes,No,No,Yes,No,No,Little bit,Yes,Yes,Yes,Yes,No,Partial
+2020/12/14 7:39:50 PM GMT+6,Shad Islam,17,Male,10,Gopalganj,Reading book,Yes,No,Yes,No,Yes,Yes,Yes,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/14 7:43:12 PM GMT+6,Shahida,5,Female,1,Gazipur,Watching Tv,Yes,Not necessary,May be,No,No,No,Little bit,No,Sometimes,Yes,Yes,No,Partial
+2020/12/14 8:01:56 PM GMT+6,Minara Khatun,16,Female,10,Bhola,Reading Novel,Yes,Not necessary,Yes,No,Yes,Yes,Little bit,Yes,Yes,Yes,Yes,No,Partial
+2020/12/14 8:06:04 PM GMT+6,Babu,12,Male,8,Barguna,Playing,No,Not necessary,Yes,No,Yes,Sometimes,Yes,Yes,Sometimes,No,Yes,Yes,Yes
+2020/12/14 8:35:51 PM GMT+6,Juthika,7,Female,3,Jashore,Watching tv,Yes,Not necessary,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No
+2020/12/14 8:37:42 PM GMT+6,Sinthia Islam,8,Female,4,Jamalpur,Drawing,Yes,No,May be,No,No,No,Yes,No,Sometimes,Yes,No,Yes,Partial
+2020/12/14 8:42:37 PM GMT+6,Farhana,11,Female,7,Feni,Watching Tv,Yes,Not necessary,May be,No,Yes,Sometimes,No,No,Sometimes,Yes,Yes,No,Partial
+2020/12/14 8:47:25 PM GMT+6,Shihab,15,Male,9,Rangpur,Play Cricket,No,Yes,May be,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Partial
+2020/12/14 11:54:33 PM GMT+6,Abesh,11,Male,5,Chandpur,Playing outside ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/14 11:54:57 PM GMT+6,Abir,8,Male,3,Habiganj,Watching cartoon,Partial,Not necessary,May be,No,Yes,Sometimes,Little bit,No,Sometimes,No,No,Yes,Partial
+2020/12/14 11:55:28 PM GMT+6,Aadi,9,Male,3,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/14 11:56:30 PM GMT+6,Mahi,10,Male,5,Chapainawabganj,Playing cricket,No,No,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,No,Yes,Yes,Yes
+2020/12/14 11:56:42 PM GMT+6,Baishakhi,10,Female,4,Chandpur,Watching tv,Partial,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/14 11:57:52 PM GMT+6,Bakul Akter,12,Female,6,Chandpur,Playing football ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/14 11:59:39 PM GMT+6,Mim,17,Female,10,Cumilla,Watching tv,No,No,Yes,No,Yes,Yes,Yes,No,Sometimes,Yes,No,Yes,Partial
+2020/12/15 12:01:00 AM GMT+6,Azizul,12,Male,7,Bhola,Playing football,No,No,Yes,No,Yes,Yes,Little bit,Yes,Sometimes,No,Yes,Yes,Yes
+2020/12/15 12:01:55 AM GMT+6,Bristy Akter,9,Female,3,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:02:02 AM GMT+6,Tahosin,14,Male,9,Bogura,Playing cricket,No,No,Yes,No,Yes,Yes,Little bit,Yes,Yes,No,Yes,Yes,Yes
+2020/12/15 12:03:16 AM GMT+6,Dipu,10,Male,5,Chapainawabganj,Watching tv,No,No,Yes,No,Yes,Yes,No,Yes,Sometimes,Yes,No,Yes,Partial
+2020/12/15 12:04:03 AM GMT+6,Eshita,12,Female,6,Chandpur,Travelling ,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:04:19 AM GMT+6,Habib,14,Male,9,Chandpur,Playing cricket,No,No,Yes,No,Yes,Yes,No,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/12/15 12:05:21 AM GMT+6,Nabil,9,Male,4,Bhola,Watching tv,No,No,Yes,No,Yes,Yes,Little bit,No,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:05:31 AM GMT+6,Shuvo ,16,Male,10,Chandpur,Drawing ,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:05:36 AM GMT+6,Emon Hasan,11,Male,5,Chandpur,Playing games,Partial,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:06:19 AM GMT+6,Rafik,7,Male,2,Barishal,Watching cartoon,No,No,May be,No,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/12/15 12:06:44 AM GMT+6,Habiba Alam,12,Female,6,Chandpur,Gossiping ,Partial,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:07:13 AM GMT+6,Rasel,11,Male,6,Brahmanbaria,Playing cricket,No,No,Yes,No,Yes,Yes,Yes,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/12/15 12:07:31 AM GMT+6,Shihab,14,Male,8,Chandpur,Gardening ,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:07:37 AM GMT+6,Hafsa Rahman,9,Female,3,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:08:11 AM GMT+6,Hasan,17,Male,10,Pabna,Traveling,No,No,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:09:01 AM GMT+6,Limon,16,Male,9,Chattogram,Traveling,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:09:18 AM GMT+6,Farhana,15,Female,9,Rangpur,Study,No,No,Yes,No,Yes,Sometimes,Little bit,Yes,Sometimes,No,Yes,Yes,Yes
+2020/12/15 12:09:48 AM GMT+6,Ibrahim Chowdhury,12,Male,6,Chandpur,Playing Cricket ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:10:07 AM GMT+6,Shuvo,13,Male,7,Chuadanga,Playing football,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:11:10 AM GMT+6,Arian,12,Male,6,Chandpur,Playing football,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:12:19 AM GMT+6,Fahad Hossain,13,Male,7,Chandpur,Playing football ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:12:20 AM GMT+6,Al amin,17,Male,10,Netrokona,Traveling,Partial,No,Yes,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:13:20 AM GMT+6,Rafil,15,Male,9,Gaibandha,Playing football,No,No,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:13:56 AM GMT+6,Arnab,13,Male,7,Cumilla,Guitar play,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Partial
+2020/12/15 12:14:17 AM GMT+6,Bipul,13,Male,7,Chattogram,Playing cricket,No,No,Yes,No,Yes,Yes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:14:28 AM GMT+6,Fahmida Muntasim,16,Female,9,Chandpur,Travelling ,No,No,Yes,No,Yes,Sometimes,No,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/12/15 12:15:09 AM GMT+6,Rakin,10,Male,4,Brahmanbaria,Watch cartoon,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:15:58 AM GMT+6,Abdul Kadir,14,Male,8,Chandpur,Playing football ,No,Yes,Yes,No,Yes,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:15:59 AM GMT+6,Mou,17,Female,10,Pabna,Drawing ,Yes,No,Yes,No,No,No,Little bit,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/12/15 12:16:13 AM GMT+6,Hafeez,12,Male,6,Brahmanbaria,Traveling,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:16:58 AM GMT+6,Razzak,16,Male,10,Bogura,Traveling,No,No,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:17:25 AM GMT+6,Kamal Hossain,7,Male,2,Chandpur,Playing outside ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:17:48 AM GMT+6,Mosharrof ,17,Male,10,Dhaka,Game ,Yes,No,Yes,No,Yes,Sometimes,Yes,No,Sometimes,No,Yes,Yes,Partial
+2020/12/15 12:17:54 AM GMT+6,Rezwan,16,Male,9,Brahmanbaria,Traveling,No,No,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:18:44 AM GMT+6,Sagor Hossain,8,Male,3,Chandpur,Playing Football ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:18:45 AM GMT+6,Shafiq,14,Male,8,Chandpur,Playing football,No,No,Yes,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:19:31 AM GMT+6,Shafi,15,Male,8,Narayanganj,Traveling,No,No,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:20:13 AM GMT+6,Shimul,12,Male,7,Satkhira,Study,No,No,Yes,Yes,Yes,No,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:20:22 AM GMT+6,Shaju,15,Male,8,Brahmanbaria,Playing cricket,No,No,Yes,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:20:31 AM GMT+6,Sabina Islam,15,Female,9,Chattogram,Watching movie ,Partial,Yes,Yes,No,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/12/15 12:21:05 AM GMT+6,Shafin,13,Male,7,Brahmanbaria,Watching tv,No,No,Yes,No,Yes,Yes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:21:28 AM GMT+6,Rahul,9,Male,3,Chandpur,Playing outside ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:21:47 AM GMT+6,Shamim,15,Male,9,Bogura,Gardening ,No,No,Yes,No,Yes,Sometimes,No,No,Sometimes,No,Yes,Yes,Yes
+2020/12/15 12:21:49 AM GMT+6,Tutul,13,Male,7,Dhaka,Traveling,No,No,Yes,No,Yes,Yes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:22:49 AM GMT+6,Rabbi,13,Male,7,Chandpur,Playing Cricket ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:24:11 AM GMT+6,Suborna ,10,Male,5,Rajbari,Shopping ,No,No,Yes,No,Yes,Sometimes,Yes,No,No,Yes,Yes,Yes,Partial
+2020/12/15 12:24:34 AM GMT+6,Niloy,11,Male,5,Dhaka,Watching tv,No,No,Yes,No,Yes,Yes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:24:34 AM GMT+6,Mahbub Alam,14,Male,8,Chandpur,Playing Cricket ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:25:29 AM GMT+6,Rajin,11,Male,6,Brahmanbaria,Playing cricket,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:25:59 AM GMT+6,Jamil,17,Male,10,Rajshahi,Game,Yes,No,Yes,No,No,No,No,Yes,Sometimes,No,Yes,Yes,Yes
+2020/12/15 12:26:19 AM GMT+6,Rabbi,13,Male,7,Cumilla,Playing football,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:26:26 AM GMT+6,Labiba Rahman,10,Female,4,Chandpur,Playing outside ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:27:04 AM GMT+6,Rajib,11,Male,6,Brahmanbaria,Watching tv,No,No,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:27:26 AM GMT+6,Rakib,12,Male,7,Brahmanbaria,Fishing ,No,No,Yes,No,Yes,Sometimes,Little bit,No,Yes,No,Yes,Yes,Yes
+2020/12/15 12:27:54 AM GMT+6,Digonto,17,Male,10,Faridpur,Traveling,No,No,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:28:22 AM GMT+6,Dipto,12,Male,6,Chattogram,Playing Cricket ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:28:34 AM GMT+6,Shajib,15,Male,9,Chandpur,Traveling,No,No,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:28:59 AM GMT+6,Ema,15,Female,9,Chandpur,Shopping ,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes
+2020/12/15 12:29:18 AM GMT+6,Tonoy,16,Male,10,Bogura,Traveling,No,No,Yes,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:29:47 AM GMT+6,Badrul Alam,13,Male,7,Chattogram,Playing Games ,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:30:02 AM GMT+6,Kamal,6,Male,1,Barishal,Watching cartoon,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:30:31 AM GMT+6,Shofiq,7,Male,2,Chapainawabganj,Singing ,No,No,Yes,No,No,No,Little bit,Yes,Sometimes,No,Yes,Yes,Yes
+2020/12/15 12:30:45 AM GMT+6,Rakibul,7,Male,2,Brahmanbaria,Watching cartoon,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:31:54 AM GMT+6,Shahriar Alam,11,Male,6,Chandpur,Playing Cricket ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:34:14 AM GMT+6,Akash,12,Male,6,Chandpur,Playing Cricket ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 12:35:17 AM GMT+6,Arman Islam,13,Male,7,Chattogram,Playing outside ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 10:29:42 AM GMT+6,sharmin,16,Female,9,Bogura,Eating,Partial,No,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 10:31:19 AM GMT+6,shorna,17,Female,10,Bogura,Watching Tv,Yes,Not necessary,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Partial
+2020/12/15 10:33:32 AM GMT+6,apurbo,14,Female,8,Bogura,Watching TV,Yes,No,May be,No,Yes,No,No,Yes,Yes,No,No,Yes,Partial
+2020/12/15 10:34:51 AM GMT+6,Habiba,12,Female,6,Bogura,Reading Book,Partial,Yes,Yes,No,Yes,Yes,Little bit,No,No,Yes,No,Yes,Partial
+2020/12/15 10:41:10 AM GMT+6,marium,8,Female,4,Bogura,Drawing,Yes,Yes,No,Yes,Yes,Sometimes,Yes,Yes,Sometimes,Yes,Yes,No,Partial
+2020/12/15 10:44:32 AM GMT+6,Afif,5,Male,1,Bogura,Drawing,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Partial
+2020/12/15 10:46:05 AM GMT+6,liton,6,Male,2,Bogura,Playing games,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 10:47:30 AM GMT+6,tamim,7,Male,3,Bogura,Playing outside,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+2020/12/15 10:49:04 AM GMT+6,Suchi,8,Female,4,Bogura,Watching tv,Yes,No,Yes,No,No,No,Little bit,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/12/15 10:50:20 AM GMT+6,imrul,10,Male,5,Bogura,playing outside,No,Yes,May be,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 10:52:00 AM GMT+6,jannat,11,Female,6,Bogura,Travelling,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 10:53:13 AM GMT+6,nahid,12,Male,7,Bogura,playing outside,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 10:54:45 AM GMT+6,sadia,14,Female,8,Bogura,Reading book,Partial,No,Yes,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/15 10:56:39 AM GMT+6,ibrahim,15,Male,8,Bogura,Travelling,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/15 10:58:41 AM GMT+6,salma,16,Female,9,Bogura,cooking,Yes,No,Yes,No,No,No,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/15 12:28:08 PM GMT+6,Bijli Khatun,9,Female,5,Rangpur,Watching tv,Yes,Not necessary,Yes,No,No,No,Little bit,Yes,Yes,No,Yes,Yes,Yes
+2020/12/15 9:54:53 PM GMT+6,Nishat Islam,12,Female,6,Rangpur,Watching tv,Yes,Not necessary,Yes,No,No,No,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/16 7:21:53 AM GMT+6,Omi,16,Male,10,Chandpur,Swimming ,No,No,Yes,No,Yes,Sometimes,Little bit,Yes,Sometimes,No,Yes,Yes,Yes
+2020/12/16 7:24:36 AM GMT+6,Sami,17,Male,10,Dhaka,Game,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes
+2020/12/16 7:27:42 AM GMT+6,Promi,14,Female,9,Dhaka,Study,No,No,Yes,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/16 1:52:51 PM GMT+6,tisa ,14,Female,8,Rangpur,crafting,Yes,Not necessary,May be,Yes,Yes,Yes,Little bit,No,Sometimes,Yes,No,Yes,No
+2020/12/16 1:55:49 PM GMT+6,Nusrat,14,Female,7,Rangpur,Drawing,Partial,Yes,May be,No,Yes,Yes,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/12/16 1:57:42 PM GMT+6,Arian,15,Male,10,Rangpur,Paper crafting,Yes,Not necessary,May be,No,Yes,Sometimes,Little bit,No,No,Yes,No,Yes,No
+2020/12/16 1:59:08 PM GMT+6,Niva,14,Female,8,Rangpur,Drawing,Yes,No,May be,Yes,Yes,Yes,Little bit,No,Sometimes,No,Yes,No,No
+2020/12/16 2:00:52 PM GMT+6,Abid,15,Male,9,Rangpur,Playing,Partial,No,May be,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/16 2:02:23 PM GMT+6,Imran,15,Male,10,Rangpur,Chating,Yes,Not necessary,May be,No,Yes,No,Little bit,Yes,No,No,No,Yes,Partial
+2020/12/16 2:04:23 PM GMT+6,Tasnia,13,Female,7,Rangpur,Reading,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/16 2:05:45 PM GMT+6,Prova,16,Female,10,Rangpur,Watching tv,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/16 2:07:13 PM GMT+6,Munia,9,Female,4,Rangpur,Playing ,Partial,Yes,May be,No,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Yes,Partial
+2020/12/16 2:08:51 PM GMT+6,Sharmin,17,Female,10,Rangpur,Cooking,Yes,Not necessary,No,Yes,Yes,Sometimes,Yes,No,No,No,Yes,Yes,No
+2020/12/16 2:11:17 PM GMT+6,Nijhum,16,Female,10,Rangpur,Reading,Yes,Not necessary,No,Yes,Yes,Yes,Little bit,No,No,Yes,No,No,No
+2020/12/16 2:13:55 PM GMT+6,Sabiha,14,Female,7,Rangpur,Watching tv,Partial,Not necessary,No,No,Yes,No,Little bit,Yes,No,No,Yes,Yes,Partial
+2020/12/16 2:22:49 PM GMT+6,Sabiha,14,Female,7,Rangpur,Watching tv,Partial,Not necessary,No,No,Yes,No,Little bit,Yes,No,No,Yes,Yes,Partial
+2020/12/16 2:24:46 PM GMT+6,Shila,14,Female,10,Rangpur,Singing song,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,No,No,Yes,Yes,Yes,Partial
+2020/12/16 2:26:25 PM GMT+6,Mithun,16,Male,10,Rangpur,Playing cricket,Partial,Yes,May be,No,Yes,No,Little bit,No,Sometimes,No,No,Yes,Partial
+2020/12/16 2:32:10 PM GMT+6,Nahidur,15,Male,10,Rangpur,Chating,Yes,Not necessary,Yes,No,Yes,No,Little bit,Yes,No,No,Yes,Yes,Partial
+2020/12/16 2:34:09 PM GMT+6,Jitu,16,Male,10,Rangpur,Watching cartoons,Yes,Not necessary,No,Yes,Yes,No,Little bit,No,No,Yes,Yes,Yes,No
+2020/12/16 2:36:14 PM GMT+6,Tamanna,15,Female,10,Rangpur,Cycling,Partial,Yes,Yes,No,Yes,Yes,Yes,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/12/16 2:38:00 PM GMT+6,Arif,16,Male,10,Rangpur,Reading,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,Yes,No,No,Yes,Yes,Partial
+2020/12/16 2:41:32 PM GMT+6,Maruf,14,Male,7,Rangpur,Cycling,Partial,Yes,Yes,No,Yes,No,No,No,Sometimes,No,Yes,Yes,Yes
+2020/12/16 2:43:30 PM GMT+6,Jannatul maowa,12,Female,6,Rangpur,Playing badminton,Partial,No,No,Yes,Yes,Yes,Little bit,No,No,Yes,Yes,Yes,No
+2020/12/16 2:46:03 PM GMT+6,Labib,9,Male,4,Rangpur,Cycling,Partial,Yes,May be,No,Yes,No,Yes,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/16 2:47:42 PM GMT+6,Ruhe,12,Female,6,Rangpur,Cycling,Partial,No,No,Yes,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/16 2:49:15 PM GMT+6,Joy,12,Male,7,Rangpur,Cricketing,Partial,No,No,Yes,Yes,Sometimes,Yes,No,Sometimes,No,No,Yes,No
+2020/12/16 2:50:23 PM GMT+6,Sabrin,15,Female,9,Rangpur,Crafting,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,No,No,Yes,Yes,Yes,Partial
+2020/12/19 9:05:46 AM GMT+6,Faruk Mia,17,Male,10,Rangpur,Gathering with friend,No,Yes,May be,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Partial
+2020/12/19 12:32:16 PM GMT+6,Raj Sarkar,12,Male,6,Chandpur,Playing Cricket ,No,Yes,Yes,No,No,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:32:55 PM GMT+6,Dipto Sarkar,11,Male,5,Chandpur,Playing Cricket ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:33:41 PM GMT+6,Puja Saha,10,Female,4,Chandpur,Travelling ,No,Yes,Yes,No,No,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:34:30 PM GMT+6,Aniruddha Saha,11,Male,5,Chandpur,Playing football ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:35:33 PM GMT+6,Sujon,10,Male,4,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:36:41 PM GMT+6,Priyanka,12,Female,6,Chandpur,Watching tv ,Partial,No,Yes,No,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/12/19 12:37:49 PM GMT+6,Sonjoy,15,Male,9,Chandpur,Playing football ,No,Yes,Yes,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:38:38 PM GMT+6,Adi,9,Male,3,Chandpur,Playing outside ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:39:33 PM GMT+6,Tapos,10,Male,4,Chandpur,Playing Cricket ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:40:32 PM GMT+6,Joy,13,Male,7,Chandpur,Playing Cricket ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:42:41 PM GMT+6,Aksah,14,Male,8,Chandpur,Travelling ,No,Yes,Yes,No,Yes,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:44:22 PM GMT+6,Aditto,14,Male,8,Chandpur,Playing Cricket ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:45:19 PM GMT+6,Rajib,10,Male,4,Chandpur,Playing football ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:46:01 PM GMT+6,Chaity,10,Female,4,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:47:13 PM GMT+6,Nila,11,Female,5,Chandpur,Watching tv ,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/19 12:48:10 PM GMT+6,Trishna,10,Female,4,Chandpur,Playing outside ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:48:57 PM GMT+6,Dipa,11,Female,5,Chandpur,Travelling ,No,Yes,Yes,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:49:58 PM GMT+6,Shankar,13,Male,7,Chandpur,Playing Cricket ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:50:40 PM GMT+6,Rajesh,12,Male,6,Chandpur,Playing Cricket ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:51:42 PM GMT+6,Dipankar,14,Male,8,Chandpur,Travelling ,No,Yes,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:52:26 PM GMT+6,Sourav,9,Male,3,Chandpur,Playing outside ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:53:25 PM GMT+6,Dipak,9,Male,3,Chandpur,Playing ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:54:31 PM GMT+6,Abir,12,Male,6,Chandpur,Playing Cricket ,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:55:22 PM GMT+6,Shuvo,12,Male,6,Chandpur,Travelling ,No,Yes,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:56:27 PM GMT+6,Sharna,10,Female,4,Chandpur,Playing outside ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:57:40 PM GMT+6,Marina,11,Female,5,Chandpur,Travelling ,No,Yes,Yes,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 12:59:02 PM GMT+6,Sristy ,9,Female,3,Chandpur,Playing ,No,Yes,May be,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 1:00:23 PM GMT+6,Orpita,8,Female,2,Chandpur,Playing ,No,Yes,May be,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 1:01:00 PM GMT+6,Maliha,9,Female,3,Chandpur,Playing outside ,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 3:42:26 PM GMT+6,Rima,5,Female,1,Rangpur,Playing,Yes,No,May be,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/19 3:50:17 PM GMT+6,Asha,7,Female,2,Rangpur,Drawing,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Partial
+2020/12/19 3:52:26 PM GMT+6,Nirob,9,Male,3,Rangpur,Cricketing,Partial,No,May be,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/19 3:54:28 PM GMT+6,Raufur rahim,10,Male,4,Rangpur,Drawing,Yes,No,No,Yes,Yes,Yes,Little bit,No,No,Yes,No,Yes,No
+2020/12/19 3:56:01 PM GMT+6,Risa,11,Female,5,Rangpur,Playing,Partial,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Partial
+2020/12/19 4:00:40 PM GMT+6,Omi hasan,12,Male,6,Rangpur,Playing badminton,Partial,No,May be,No,Yes,No,Little bit,No,Yes,Yes,Yes,Yes,Partial
+2020/12/19 4:05:50 PM GMT+6,Siam,12,Male,7,Rangpur,Playing,Partial,No,May be,Yes,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/19 4:07:55 PM GMT+6,Galib,13,Male,8,Rangpur,Drawing,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,No,No,Yes,No,Yes,Partial
+2020/12/19 4:10:34 PM GMT+6,Asma,14,Female,9,Rangpur,Reading story book 📚📖,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,No,No,No,No,Yes,Partial
+2020/12/19 4:12:32 PM GMT+6,Nuban,17,Male,10,Rangpur,Gossiping with friend,No,Yes,Yes,No,Yes,Sometimes,Little bit,No,Yes,Yes,No,Yes,Partial
+2020/12/19 4:13:08 PM GMT+6,Shohel,16,Male,10,Rangpur,Cricketing,Partial,No,May be,No,Yes,No,No,No,Sometimes,Yes,No,Yes,Partial
+2020/12/19 4:14:15 PM GMT+6,Jian,5,Male,1,Rangpur,Playing,Yes,Not necessary,May be,No,Yes,Yes,Little bit,No,No,Yes,Yes,Yes,Partial
+2020/12/19 4:14:35 PM GMT+6,Sara Moni,16,Female,9,Rangpur,Outing,Partial,Yes,Yes,No,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/12/19 4:15:46 PM GMT+6,Sidratun muntaha,7,Female,2,Rangpur,Drawing,Yes,No,May be,No,Yes,Sometimes,No,No,No,Yes,Yes,Yes,Partial
+2020/12/19 4:16:47 PM GMT+6,Rumaisa,8,Female,3,Rangpur,Drawing,Yes,No,No,Yes,Yes,Yes,Little bit,No,Sometimes,Yes,Yes,No,No
+2020/12/19 4:17:45 PM GMT+6,Rumaisa,8,Female,3,Rangpur,Drawing,Yes,No,No,Yes,Yes,Yes,Little bit,No,Sometimes,Yes,Yes,No,No
+2020/12/19 4:19:16 PM GMT+6,Araddha moni,9,Female,4,Rangpur,Crafting,Yes,Not necessary,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Partial
+2020/12/19 4:20:15 PM GMT+6,Shoncita,10,Female,6,Rangpur,Playing,Partial,No,Yes,No,Yes,No,No,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/12/19 4:21:50 PM GMT+6,Afia,12,Female,6,Rangpur,Drawing,Yes,No,No,Yes,Yes,Sometimes,Yes,No,No,Yes,Yes,Yes,No
+2020/12/19 4:24:33 PM GMT+6,Adiba,12,Female,6,Rangpur,Reading,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/12/19 4:25:14 PM GMT+6,Rodela,15,Female,8,Rangpur,Cycling,Yes,Yes,May be,No,No,Sometimes,No,No,Yes,Yes,Yes,Yes,Partial
+2020/12/19 4:26:08 PM GMT+6,Jui,12,Female,6,Rangpur,Playing badminton 🏸,Partial,No,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/19 4:26:36 PM GMT+6,Shorup,14,Male,7,Rangpur,Playing Cricket,No,Yes,May be,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Partial
+2020/12/19 4:30:22 PM GMT+6,Mourin,10,Female,5,Rangpur,Singing,Yes,No,Yes,No,Yes,Sometimes,Yes,No,Sometimes,Yes,No,Yes,Partial
+2020/12/19 4:32:10 PM GMT+6,Diya,14,Female,9,Rangpur,Watching tv,Yes,Not necessary,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Partial
+2020/12/19 4:32:17 PM GMT+6,Tuhin Mia,13,Male,6,Rangpur,Watching tv,Yes,Not necessary,Yes,No,Yes,Yes,No,Yes,Sometimes,Yes,No,Yes,Partial
+2020/12/19 4:33:36 PM GMT+6,Jisan,13,Male,9,Rangpur,Cricketing,Partial,No,Yes,Yes,Yes,Sometimes,Little bit,Yes,No,Yes,Yes,Yes,Partial
+2020/12/19 4:39:44 PM GMT+6,Tripti Hasan,10,Female,6,Rangpur,hand craft,Yes,Not necessary,Yes,No,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,No,No,Partial
+2020/12/19 4:55:23 PM GMT+6,Nipu Moni,9,Female,5,Rangpur,Drawing,Yes,Not necessary,May be,No,Yes,Yes,Little bit,Yes,Yes,Yes,No,Yes,Partial
+2020/12/19 4:57:06 PM GMT+6,Jayed,8,Male,4,Rangpur,Watching cartoon,Yes,Not necessary,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Partial
+2020/12/20 3:09:54 AM GMT+6,Prema,17,Female,10,Bogura,Drawing,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Partial
+2020/12/20 3:11:09 AM GMT+6,Sultana,6,Female,1,Bogura,Dancing,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No
+2020/12/20 3:12:21 AM GMT+6,Golam,7,Male,2,Bogura,Playing outside,No,Yes,May be,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/20 3:13:13 AM GMT+6,Kibriya,8,Male,3,Bogura,Watching tv,Yes,No,Yes,No,Yes,Sometimes,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/20 3:15:01 AM GMT+6,Keya,9,Female,4,Bogura,Cooking,Partial,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/21 5:56:53 AM GMT+6,Jisan,13,Male,9,Rangpur,Cricketing,Partial,No,Yes,Yes,Yes,Sometimes,Little bit,Yes,No,Yes,Yes,Yes,Partial
+2020/12/22 6:50:28 PM GMT+6,Tabassum,6,Female,1,Rangpur,Watching cartoons ,Yes,Not necessary,No,Yes,Yes,Yes,Little bit,No,Sometimes,Yes,Yes,Yes,No
+2020/12/22 6:52:02 PM GMT+6,Nafiz,7,Male,2,Rangpur,Playing ,Partial,No,May be,Yes,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,Yes,Yes,Partial
+2020/12/22 6:53:35 PM GMT+6,Tabassum nusrat ema,8,Female,3,Rangpur,Watching tv,Yes,Not necessary,May be,No,Yes,Sometimes,Little bit,No,No,Yes,Yes,Yes,Partial
+2020/12/22 6:54:42 PM GMT+6,Tahsin nusrat,11,Female,4,Rangpur,Drawing,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Partial
+2020/12/22 6:56:08 PM GMT+6,Nir,11,Male,5,Rangpur,Cricketing,Partial,No,No,Yes,Yes,Yes,Yes,Yes,Sometimes,Yes,No,Yes,No
+2020/12/22 6:57:33 PM GMT+6,Jui,12,Female,6,Rangpur,Cycling,Partial,No,May be,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Partial
+2020/12/22 6:58:46 PM GMT+6,Likhon,13,Male,7,Rangpur,Cricketing,Partial,No,Yes,Yes,Yes,Sometimes,Yes,Yes,No,Yes,No,Yes,Partial
+2020/12/22 6:59:48 PM GMT+6,Raj,14,Male,8,Rangpur,Playing badminton 🏸,Partial,No,Yes,No,Yes,Yes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/22 7:01:21 PM GMT+6,Ritu mony,14,Female,9,Rangpur,Hand crafting,Yes,Not necessary,Yes,No,Yes,Yes,Little bit,No,No,No,No,Yes,Partial
+2020/12/22 7:02:18 PM GMT+6,Mukta,15,Female,10,Rangpur,Cooking,Yes,Not necessary,May be,No,Yes,No,Yes,No,No,Yes,No,No,No
+2020/12/22 7:04:11 PM GMT+6,Asha mony,6,Female,1,Rangpur,Watching cartoons ,Yes,No,Yes,No,Yes,Sometimes,Little bit,No,No,No,Yes,Yes,Partial
+2020/12/22 7:09:37 PM GMT+6,Nuban samialam,8,Male,3,Rangpur,Reading story📖 ,Yes,Not necessary,Yes,No,Yes,Yes,Little bit,No,Yes,Yes,Yes,Yes,Partial
+2020/12/22 7:12:38 PM GMT+6,Sara,12,Female,7,Rangpur,Crafting,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Partial
+2020/12/22 7:16:04 PM GMT+6,Kobirul,11,Male,6,Rangpur,Playing football 🏈 ,Partial,No,Yes,No,Yes,Sometimes,Little bit,No,No,No,No,Yes,Partial
+2020/12/22 7:18:18 PM GMT+6,Mahi,8,Female,3,Rangpur,Singing song,Yes,Not necessary,May be,No,Yes,Sometimes,Yes,Yes,No,No,Yes,No,Partial
+2020/12/22 7:34:13 PM GMT+6,Mahadi,12,Male,6,Rangpur,Reading book,Yes,Not necessary,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No
+2020/12/22 7:38:49 PM GMT+6,Ruhe,7,Female,2,Rangpur,Playing football,Partial,No,Yes,Yes,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/22 7:40:30 PM GMT+6,Saikat,8,Male,3,Rangpur,Cricketing,Partial,No,Yes,No,Yes,No,Little bit,No,Sometimes,Yes,No,Yes,Partial
+2020/12/22 7:40:50 PM GMT+6,Anisha,17,Female,10,Rangpur,Gossiping with friend,No,Yes,Yes,No,Yes,Sometimes,Little bit,Yes,Sometimes,Yes,Yes,Yes,Yes
+2020/12/22 7:44:28 PM GMT+6,Sabla nur,11,Female,6,Rangpur,Drawing,Yes,No,Yes,No,Yes,Yes,Little bit,Yes,No,Yes,Yes,Yes,Partial
+2020/12/22 7:47:23 PM GMT+6,Prema,14,Female,8,Rangpur, Dancing,Partial,No,Yes,Yes,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Yes,Partial
+2020/12/22 7:54:44 PM GMT+6,Ayat,9,Male,4,Rangpur,Playing cricket,Yes,No,Yes,No,Yes,No,Little bit,Yes,No,Yes,Yes,Yes,Partial
+2020/12/22 7:58:01 PM GMT+6,Nijhum,16,Female,10,Rangpur,Reading 📖📚,Yes,Not necessary,May be,Yes,Yes,Yes,Yes,No,Sometimes,Yes,Yes,Yes,No
+2020/12/22 7:59:21 PM GMT+6,Nasima,12,Female,7,Rangpur,Cooking,Yes,Not necessary,Yes,No,Yes,Yes,Yes,Yes,Sometimes,Yes,No,No,No
+2020/12/22 8:09:34 PM GMT+6,Oishe,13,Female,7,Rangpur,Reading books 📚,Yes,Not necessary,May be,No,No,Yes,Yes,No,No,No,Yes,Yes,Partial
+2020/12/22 8:11:56 PM GMT+6,Shela,16,Female,10,Rangpur,Gossiping friends,Partial,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Partial
+2020/12/22 8:12:57 PM GMT+6,Rini,14,Female,9,Rangpur,Singing song,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Partial
+2020/12/22 8:14:35 PM GMT+6,Nishat,14,Female,9,Rangpur,Chating,Yes,Not necessary,Yes,No,Yes,Sometimes,Yes,No,No,Yes,No,Yes,No
+2020/12/23 12:27:24 PM GMT+6,Shirin,7,Female,2,Bogura,Cooking,Partial,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Partial
+2020/12/23 12:28:28 PM GMT+6,Suraiya,8,Female,3,Bogura,Watching tv,Yes,No,Yes,No,No,No,Little bit,Yes,Yes,Yes,Yes,Yes,Partial
+2020/12/23 12:29:28 PM GMT+6,Shohan,17,Male,10,Bogura,Paying outside,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+2020/12/23 12:30:47 PM GMT+6,Risha,9,Female,4,Bogura,Reading books,Partial,No,Yes,No,Yes,Sometimes,Little bit,No,Sometimes,Yes,Yes,Yes,Partial
+2020/12/23 12:33:37 PM GMT+6,Rifat,5,Male,1,Bogura,Playing outside,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Partial
+2020/12/23 12:34:37 PM GMT+6,Maya,5,Female,1,Bogura,Watching tv,Yes,No,May be,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Partial
+2020/12/23 12:36:32 PM GMT+6,Toma,16,Female,9,Bogura,Sleeping,Partial,No,Yes,No,Yes,No,Little bit,Yes,Yes,Yes,Yes,Yes,Yes
